@@ -1,0 +1,4500 @@
+[{
+  "_id": {
+    "$oid": "683571629243324a137c21e2"
+  },
+  "summonerId": "QLKX-MNffRtgp455gMGp_Bls-GgedBHvYAFE_Ys29zxOlC7JHNUX0M6xaw",
+  "puuid": "fan316OIKVZHjg8XAWq7__xhhlocH9H9vxQajfSvVGDlbMK-kbab1ZG9Uwh-nlcUJUxRxC9CtMyUaA",
+  "leaguePoints": 2203,
+  "rank": "I",
+  "wins": 187,
+  "losses": 91,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21e3"
+  },
+  "summonerId": "5ASSZ4VgGmNwkDEtDli9vV2rcGI984m5tdjxR1Aquvk7K6tdE4lN7qAVsg",
+  "puuid": "_icjabNU-tXRAcoMFSrxu64K8dt6sE3j6pu26SbaKXgAfUVMXewrmv0d26d2jKLG2n-5HYTCXxeRpg",
+  "leaguePoints": 1947,
+  "rank": "I",
+  "wins": 464,
+  "losses": 368,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21e4"
+  },
+  "summonerId": "s78486BqqGYttIvvNcTNchZVSPW53JRv_VIkiQ7eap4cii6fQicTKtECtg",
+  "puuid": "gXnd_NWobka7RwaYVy2gSpohRUqgt0JqS4Npt2ba6rjE6tVJFmEki8k2x3Mh7oWoQJqbuz8Oynk6nA",
+  "leaguePoints": 1716,
+  "rank": "I",
+  "wins": 194,
+  "losses": 137,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21e5"
+  },
+  "summonerId": "ViV5GZXd9NiDMSP2ms2ihJqkFJjZivk1NeqzKoG186s4mIIHmhfoNNjilw",
+  "puuid": "khAcTE9Nnk1oxYSK61V8fdHWEvG2W-GvQacTu2aT5CNM9gU78M41EVH9mvSF98QcslHMlD3i3gQYUA",
+  "leaguePoints": 1700,
+  "rank": "I",
+  "wins": 354,
+  "losses": 268,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21e6"
+  },
+  "summonerId": "0cnNpNl0zM_WCyLeRywC5X5YEKGoq6kG3BPnaJiHVj80VwdyU7RHMFyz2w",
+  "puuid": "qYVlXyMTqNpnd44Udmtp9eQAOV7NBaI8YzQYAb_qllCnq17PnQDdl3r8_3t8QLeBreok9jvYU6e4EA",
+  "leaguePoints": 1613,
+  "rank": "I",
+  "wins": 150,
+  "losses": 69,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21e7"
+  },
+  "summonerId": "gN8BOInadIbRCAz6WnJBUzJWDenx_TXJJ6TqexEWHpDN0DXlk0KddvhsEw",
+  "puuid": "1aJuGmQ8PqAQ13z68aHGS2mKegY0t5NaekAx3EOAlxCfF0GkhGiixUMEm4iLpMLBpj47hdqJuojjKQ",
+  "leaguePoints": 1554,
+  "rank": "I",
+  "wins": 173,
+  "losses": 112,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21e8"
+  },
+  "summonerId": "YZ5S4YIEYlCpw30ZPNFJ3wis-LBHyL2JuaXW_OMoDxJWLMaN7f-eTwZyhA",
+  "puuid": "3QoEJXXdyK6omsJdW3cU7EXhzdEP98j8MGuQ9_h09vzrw2m_uBuUx2kk7ngsxBAAJELsPKP6hGTCBQ",
+  "leaguePoints": 1525,
+  "rank": "I",
+  "wins": 292,
+  "losses": 234,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21e9"
+  },
+  "summonerId": "SZYoVCneClr3gW43EbYsDJXeI73lIM4tAEcwhPD9zUhliMQPANtNy1SNdQ",
+  "puuid": "Rqv5X7defaL3bsInaX-1839o7WiMQOMVLWG1QYoAouaJDHE81QFN_Fm5cMv9qGk28MeXwO2pJ-OZog",
+  "leaguePoints": 1521,
+  "rank": "I",
+  "wins": 627,
+  "losses": 563,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21ea"
+  },
+  "summonerId": "u7Dtl1TaEcin3NOBQSZE5-gaZtSExd8VnLjTV2WMBlhRzOHM-ihPmNiYng",
+  "puuid": "AvC04M8uh6xzW0bCJppvZ2AwfQ4i6_GfJjApT97oXdrvhO1RHI-siOlU2VSG0YZue9YC4lYoqnR_yQ",
+  "leaguePoints": 1507,
+  "rank": "I",
+  "wins": 403,
+  "losses": 337,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21eb"
+  },
+  "summonerId": "-5Xa3Y8gocCIPO2k9UyiqCwUYpowBKCFOaE1a9JXXgOIha4PUejscv54ow",
+  "puuid": "ixCQJj-YLgamg5n6Mryx9tCD9ItFtbxo90fEhRntDzOmOPuA9jl9dj81qWCN5Ed9Es4Uzk0zP1zT4Q",
+  "leaguePoints": 1493,
+  "rank": "I",
+  "wins": 335,
+  "losses": 269,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21ec"
+  },
+  "summonerId": "iqyfqa-TruvtXDmKBqUn1TSdmhk2qWL08K1e4lcTJ6kgQogdIzKD96mv0g",
+  "puuid": "nlsAkpQIysd6VkOUbNZ95EmVidAISCfcPNn6KXIWiut82hgXYR5MSjaHOIFddebpVlq2GpDsAW6qfg",
+  "leaguePoints": 1488,
+  "rank": "I",
+  "wins": 142,
+  "losses": 95,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21ed"
+  },
+  "summonerId": "jTPRZ_Kyg6NBkwLWiucTocWSwj-kAdGIeedhfl6fNMDZ42aJg85i1oa7Qw",
+  "puuid": "n6kXHdMYmeWEQoFsDycgl9JmjFk4pqgqiNT9cOhzbzaIk6mBozRwLw799oho2GogWbXZW7pxCRVKtA",
+  "leaguePoints": 1473,
+  "rank": "I",
+  "wins": 346,
+  "losses": 292,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21ee"
+  },
+  "summonerId": "zoEFrW2yK0wItvqLeZY6WnxgO2hapcW6Zyh6RkjTKQijePAe_a9Of74Y4A",
+  "puuid": "8_yuVx2Pj3gQEZfhgs5MFtttlkab946fcgc2RA3CUOCF6sLOn5Fz7EhZ4heAhHukOubbnb2voKtlqw",
+  "leaguePoints": 1471,
+  "rank": "I",
+  "wins": 309,
+  "losses": 262,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21ef"
+  },
+  "summonerId": "0Pincp4HcW3xTUkph9Fe3OWUQ5XJvCZpoOLADhgsLvzLRP3Xlfi1utLLBg",
+  "puuid": "ZKexqdDkhqKazQjfjckR2pHhXV4PvLov2ZXTnNqkFnEWGbvBa_126ZxRddeBBQL-_kC5zOUHpIjQ5g",
+  "leaguePoints": 1455,
+  "rank": "I",
+  "wins": 148,
+  "losses": 95,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21f0"
+  },
+  "summonerId": "lHozr78Q-wah29H95seYXBlMV6JlBtehd8PcM6dgB5ubRK9vp8Fnbu8LRg",
+  "puuid": "7L4HmNrGIZT5mjkRbbOFclGb_Ajw8eug1Kqe2hDlCm1QUGgOLAvkm9HLo435VQ3T3zD_Nt4H8RAUlg",
+  "leaguePoints": 1415,
+  "rank": "I",
+  "wins": 529,
+  "losses": 469,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21f1"
+  },
+  "summonerId": "8I4MIxyZQ5iFvAbZugWDT8y31Pf78xKzkn5FcnEWWDsJQJ-0PKfQ2YOV_Q",
+  "puuid": "IELu3dXZIKHOogEmvmEnYnKCnxkIbOm-fshKfTXpJBNs08tfnaDSRlBny_u-ywmpnU4NMt9IJccyMA",
+  "leaguePoints": 1354,
+  "rank": "I",
+  "wins": 234,
+  "losses": 161,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21f2"
+  },
+  "summonerId": "2OWS6QZE6Vmjh01WC_E-QVmp5Tu11f1ecVbupmU6SuPs2EpgGaLBt11HZA",
+  "puuid": "AN1ZAtLbD28xwTdEzXCWvePtcXaFdnquqzu2_THKP07XUKWLrLPy3x0Y-M6Rj4wU82qMk8BnaqbDtw",
+  "leaguePoints": 1348,
+  "rank": "I",
+  "wins": 163,
+  "losses": 95,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21f3"
+  },
+  "summonerId": "NRWNIZFZuTIFpGjBNdRe_vyju9pwZ7cwiHNFMrYNWAssWqv1C2dg07V4qw",
+  "puuid": "mEJpJTBYx4BMA0CRO_wPX4nPdtmHhgg2JvynLNSENCkzpw-zXDV_ZJRP10ByB9eaJPIe2RfkCuRAgQ",
+  "leaguePoints": 1329,
+  "rank": "I",
+  "wins": 173,
+  "losses": 124,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21f4"
+  },
+  "summonerId": "U0SAceGzHvWZ7WcTvz3haRLVz21d9t_dEzWoAU9P7JIc3PMOh55U4wRJRg",
+  "puuid": "xS3CHfnyI5_oBLaSW1n36bcnU4C05udZaS2VduCZh9fXDWcjsC7rCLaRdQY9UDfhUtcBR47LZ-RHrg",
+  "leaguePoints": 1320,
+  "rank": "I",
+  "wins": 297,
+  "losses": 238,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21f5"
+  },
+  "summonerId": "8zzBmIe86YQd6DVQK_Ofgj5pJY4Y_Q1UqcqSpGMh58VPGEVJtwVUZVpnQQ",
+  "puuid": "jsS6kPGrimsZ6oqL9gE9sRKn6KTv9PWACY1Fi1CaWmybdKm-hLhXiL1JvOU2IDMlWQjhKFDGmJil-Q",
+  "leaguePoints": 1315,
+  "rank": "I",
+  "wins": 202,
+  "losses": 150,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21f6"
+  },
+  "summonerId": "pLh0TgrUFi9vIlltEFlEkLHQuhmIEPsGxzLhGCdZHfwp0HA2zitVQdUn1w",
+  "puuid": "iQbBHdWaUCTLm89zdYJLS4sr_ZlKURxtn2-BZVAyJ-AEFwQI7btx1I8EidrAGwarE8bDG8H9yAPmRw",
+  "leaguePoints": 1300,
+  "rank": "I",
+  "wins": 171,
+  "losses": 126,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21f7"
+  },
+  "summonerId": "m9i8-MWaRBuicR4nyefZkVoGK-NPVKr7oJ8ruW-yCPBQB-E9nVWS0YUscw",
+  "puuid": "bFgAJJ-72ZUq81oTCpMmAH-qC_uwgBd32MqqpuDAP7GDuZAJKs3_Q4zH69qNLjsypSSh-UaG0rvuOw",
+  "leaguePoints": 1294,
+  "rank": "I",
+  "wins": 257,
+  "losses": 173,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21f8"
+  },
+  "summonerId": "BbGzFE6o_9CnpB-b9xrZwxO94i1sgv7jSW_SKf-bH7A0T5Ucn6BCSjqWSQ",
+  "puuid": "jpOWivMXGagK7dOJS1VzWtcIXIwAHEFCLFjVww0itm_GWds6_vgX_tBWZH950uXxPUCUiXLCb9ONpg",
+  "leaguePoints": 1280,
+  "rank": "I",
+  "wins": 280,
+  "losses": 221,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21f9"
+  },
+  "summonerId": "kJf964K6wXTL-fMncaCY8gTrUaMO0uRMf-JtziHkK3BrjdH5V1bfdEFHig",
+  "puuid": "Tv4TYCHia2CuepeMwejEiKQ5JezOVDDTiBabI0ON4gK78d6KO4US_GCe3pcu7kOCT8oabdQJ6jzyyw",
+  "leaguePoints": 1256,
+  "rank": "I",
+  "wins": 200,
+  "losses": 112,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21fa"
+  },
+  "summonerId": "nQRcY9OxC65WFYngXbJmzMN6BcEok6ZhyR0ERnq_fwOkBF6ahX1pwxgJzQ",
+  "puuid": "6giAJEnJ61Q5VdR4ZODUJcagj-HBY_L2J5leykRL5ByFPgI25yPBgzGuth16l3zrTlbAyWUov51H6A",
+  "leaguePoints": 1249,
+  "rank": "I",
+  "wins": 385,
+  "losses": 332,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21fb"
+  },
+  "summonerId": "zkMlLYIZEixQGISRCTPu_fDIVhkEMyVGqay2gZz2GklubmVmNwc6OSzlwA",
+  "puuid": "4157rqlL9AoURbX5PFAB19kmGgGGMf5IkpFFdHBmjmatZSYU2fCAhCOoZCr1Z7MLJk3_Yo0-6z9dcg",
+  "leaguePoints": 1239,
+  "rank": "I",
+  "wins": 298,
+  "losses": 247,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21fc"
+  },
+  "summonerId": "MdrGV33heUAtNUDcq2nvdGd7FQYXyzAT_UqrIQ-yd_czN0ydyfzLk_4Rmg",
+  "puuid": "BNddCydC-PpSbuYCYVqwqhSgy3FUi52QWkm3MfR5UwS_2HGjVG0y7PLTmoSgZ8z7SntcMe75FZg2ug",
+  "leaguePoints": 1231,
+  "rank": "I",
+  "wins": 123,
+  "losses": 80,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21fd"
+  },
+  "summonerId": "7w-xno1LYL_OW6MZs-zVBbPe5o2Fu8oUilPN6TiB9JuAdoBm-GxIhwnx_g",
+  "puuid": "GWWsWCcluOCi0159hLQ6BY4xqrFvjFdK3wLbbMtODPnneBHR1QHr3wmQpCqwG9Fk3Ubqo84nsIAezQ",
+  "leaguePoints": 1212,
+  "rank": "I",
+  "wins": 276,
+  "losses": 240,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21fe"
+  },
+  "summonerId": "lGtxaD1jfxsARFYPkndxGFh20FxaPAswvHWPTX3NM_w_yvdEadhS1JjPRw",
+  "puuid": "VhFIfGof-XI06mBSTlqvB6tmWjhXchfIy5DF2O4sHkWEKmWcA9PKUy150bCllFttiV-iXcThHi8Asg",
+  "leaguePoints": 1194,
+  "rank": "I",
+  "wins": 369,
+  "losses": 327,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c21ff"
+  },
+  "summonerId": "RzF99anTyMmC7IgbERlcSPOAOy-LZhnLTS8NXchCP2vqPxqiTdxSk3EnBw",
+  "puuid": "3e20iO8pqel3wS5IioYP20aLsY3jnumK3fczcupA1g49nLbMJ9b-NDv2o-pho29-4_g-wL738GHPgg",
+  "leaguePoints": 1192,
+  "rank": "I",
+  "wins": 136,
+  "losses": 93,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2200"
+  },
+  "summonerId": "n2TrwcQ78Vb9QAmZaAnHJbiRCDpfqF_MQa4f3EBRZ1xLq97Xkf5v-PyLxg",
+  "puuid": "QyJ22G2eCigUdB1IveT3eK13H--yYhUz7A3u6bacPQukLthmotuvLXGa-8jSi9tTBOtuZXs8RGhmPw",
+  "leaguePoints": 1172,
+  "rank": "I",
+  "wins": 370,
+  "losses": 319,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2201"
+  },
+  "summonerId": "u14USThOUlDMUIPtHvT3lF-ok1G8gm_TDYj-Vv7hgcbNVDb9XwLUCPpLKw",
+  "puuid": "4Ag3G0HTmt2KCMWj2o2ooahvuU7qA8cicS688-Ee-vEkbOgSeSzrYnWtIkuUVLxj8BOA_7g6Twv_yQ",
+  "leaguePoints": 1154,
+  "rank": "I",
+  "wins": 168,
+  "losses": 136,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2202"
+  },
+  "summonerId": "2SO0x4mx5F8wcQFbOF4Rcc3N1J5HDPUfu3ic6XgRhWxxzw07uej5R8wH4Q",
+  "puuid": "LODyf8IoLXwZulI78UJG-Rz0HaJrdQHRmkm2Mvp7ePQn-jOjaJk-AFm3qjnPiVL07Z9RplKw6kZxhg",
+  "leaguePoints": 1152,
+  "rank": "I",
+  "wins": 255,
+  "losses": 207,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2203"
+  },
+  "summonerId": "wuCT9O1NMDBHjM4oTds0rSBtQlFVHz5xzb54zVI179I-KSyHuAYhXBWo8w",
+  "puuid": "OEe-tcRwCPBvqhIh9q2AF_rOVGlZws-i7JYFMX-k_S7lo_5ajSmTG5iY0-BVvl7EjWADFosN-L9A3g",
+  "leaguePoints": 1151,
+  "rank": "I",
+  "wins": 376,
+  "losses": 327,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2204"
+  },
+  "summonerId": "kPI34iqs3v2v-YTIv3dF8Y9X6nrII5mwPGZcmpcL7k8bmkPwNengyPFReA",
+  "puuid": "S_DUJWgu-ALUXV5i2jpiZpbHb2Xqb_dmojA1v1GjEKY9C6ee1HXfUTsBba3O6ts9wojW7U6BjP3YoQ",
+  "leaguePoints": 1149,
+  "rank": "I",
+  "wins": 222,
+  "losses": 185,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2205"
+  },
+  "summonerId": "3gcS0next1aZUWZrKGywusmkrjPmicjsJXHygATHv4EGULo7LyIl9aeEiA",
+  "puuid": "et2fzRK0Oxxg35D0AD9ga7HYQrnbze1shtRaBcKsoBbfcf8c1xeCbbaBcUyrnjRAuRybYYnvBUioyQ",
+  "leaguePoints": 1148,
+  "rank": "I",
+  "wins": 268,
+  "losses": 205,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2206"
+  },
+  "summonerId": "I3SDKLWouMrn3vBWZr2w_flDRlXWHuYTezgN5enPMluOyX6hHFaP6BEEAA",
+  "puuid": "bz_gB81HPnIgefnXfRVoOI1ZbEc6ciTUK9QMCRat300WKOD1XTZVqVwkfUE_2OjjC3CTIatKfhfjgQ",
+  "leaguePoints": 1140,
+  "rank": "I",
+  "wins": 174,
+  "losses": 136,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2207"
+  },
+  "summonerId": "Mg4kVmei6ZLrbpVtBO0gbQq3NEETr22VgThh4maDa2gsrL-nD8cb4gY-FA",
+  "puuid": "jIQFqLAfyNWXWmMzAfRHhGeK9mNyhsiaSg2rifEl2Q2nSMahadudZPDKPSASmFZhHUkpPvE2CJEjjg",
+  "leaguePoints": 1134,
+  "rank": "I",
+  "wins": 319,
+  "losses": 286,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2208"
+  },
+  "summonerId": "q1koROX53TrwhUDhcI_ceXt_eaBq2pam3ixPFZwX2U3CGO5Q8eH02SjrYg",
+  "puuid": "H4o4YBuR0WsrcW3iAVla7J0IfuQPUyrssz8pmPITqil5lmbHD7lNm95E3eZoH24ov1ncsO7Vmu7bSg",
+  "leaguePoints": 1125,
+  "rank": "I",
+  "wins": 137,
+  "losses": 88,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2209"
+  },
+  "summonerId": "NkWOxTE_dW-n1OQtWtkvvzLlWbehT6gy4tWA-UQXR02Vng-oBa3sgAGGPA",
+  "puuid": "6cHy24NVyIeg6ts0SHND9rgeoFugj0vcNFpvcUvoLKXdCrt0tYmNCIwilFxkQbFkegZmZD0v7RSuLw",
+  "leaguePoints": 1118,
+  "rank": "I",
+  "wins": 101,
+  "losses": 58,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c220a"
+  },
+  "summonerId": "NwDiS8BEapzYGoSSqA0sucKZjlqWNYmFZKiAQDoyNkuyhiBdvYghYVllBg",
+  "puuid": "9DW8Qq2fC31E6UiIcjfnYTrY0dKkGLseP7oU_EUnDqsN9Z036XG4Ng_oUONJcDwOiKa0jc-zbOqSdA",
+  "leaguePoints": 1116,
+  "rank": "I",
+  "wins": 284,
+  "losses": 225,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c220b"
+  },
+  "summonerId": "VYb0lZR5R4E_JEj0e04wIg_pcsV5jP8WxpH9QBeT8gOYThJgDCZWK8hyrA",
+  "puuid": "GJ46BiJfAHVvdKlaLNmyUcuVb7TwyyI70bBP7fyvTJAz3wSmEK7lz_DHJxc39_D5YkGyI_IcFRQx5Q",
+  "leaguePoints": 1109,
+  "rank": "I",
+  "wins": 213,
+  "losses": 185,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c220c"
+  },
+  "summonerId": "-x7dmdfTJ7t01ZjQTf0ynO4FP0v3rwvBoHiHhYcXQjD7qfJ6oTCdK4Kwdg",
+  "puuid": "2QRr-eoiWiWH8MjFXRI-zoC_k-ZkFUVde5s0OK2dBvBSgirMBanWzmjN6-0QABYDz-SRkXMGQn7ymw",
+  "leaguePoints": 1109,
+  "rank": "I",
+  "wins": 160,
+  "losses": 125,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c220d"
+  },
+  "summonerId": "lnKJj0hmqGsn38UjuF9rrImh1SMxzF7IE4yqtoDyxBQ78FMR1E6nbbMOyQ",
+  "puuid": "fl_UOi4rDxb0idkmdD_wsyAAJs6QFMqpdvGGIu8g8pWpUg5T4o8gzoXf2Fqps-5XYpRgU0WdN_BzLA",
+  "leaguePoints": 1104,
+  "rank": "I",
+  "wins": 393,
+  "losses": 351,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c220e"
+  },
+  "summonerId": "J3LtC6kDyI8XjJpwOHfLyV1HgsR_1KRp5fLFtnK7bc6Nmj1yfSH17tdn0g",
+  "puuid": "scWc_y34thxsNHHqsKIhIrELsoLIRHVq2EQ8kbM90m9ca6ll9d_Die4pAbqlkIMSzmQiKYuRzYXRQw",
+  "leaguePoints": 1104,
+  "rank": "I",
+  "wins": 185,
+  "losses": 121,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c220f"
+  },
+  "summonerId": "zCOSNjcyaPQ3Wf91WXFvhHgoBQ7kRTbLlXrSR4Mk9hI7NdSvhuqXGCsUNA",
+  "puuid": "g4x6iNnb1Mb1G4pAKR6b7Ul-TC2EiwxIvsvKVjE2oiJccFfOyOMZaynvA-QXsibsME_EiubH9yFX4g",
+  "leaguePoints": 1100,
+  "rank": "I",
+  "wins": 137,
+  "losses": 93,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2210"
+  },
+  "summonerId": "A6OeXISbLVHOwUWqpLIHXP3lD52y3WsYuAYJPV8_ZA7FGlb3H1M196sFbQ",
+  "puuid": "AzVM9sJVFZJ0nQdiIT3iEIxIytG862X9dKVqFAPembYTLai82lx1NRwN5UCxP3PUKGaNXM0cCXuj7Q",
+  "leaguePoints": 1096,
+  "rank": "I",
+  "wins": 303,
+  "losses": 261,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2211"
+  },
+  "summonerId": "BUDH7ap6Vfq4JWI0bDq74-3uKEn9M5wqMJ4NrGqU7KAuKDw0aRTOdZt-fQ",
+  "puuid": "6CamWvRycG9Nu5YIMGb6E6Ak_sZUU0gSSweG9Yv9s0nFwEwxDHoTaxqSH-SPZGGjvKN2VWFoky4gQQ",
+  "leaguePoints": 1094,
+  "rank": "I",
+  "wins": 300,
+  "losses": 258,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2212"
+  },
+  "summonerId": "53aUNixlvYmufbseBexbjiIxoPEPSVNyoX_uPXbLeqmBkif8uaje2pmO2Q",
+  "puuid": "rSjuMc4mm-2YdC0mAYbUKP4TOhVmbR5pM3ypU3ObnZjnrwhGOIpqss3ZMIrLqyXO8aL50VlxaXquUw",
+  "leaguePoints": 1093,
+  "rank": "I",
+  "wins": 273,
+  "losses": 233,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2213"
+  },
+  "summonerId": "zAQYC3wn4k9FE44_EoEH4VR80SG44Sx5LSNASno_m2WU6rwRxbzE8-2JPg",
+  "puuid": "oPNsfQEtJ_98bEnETwwTqijqMZodqA2B8rRjVvTDh84_s7luZe_QDVCYbL8VvKpthfZrsue9wurODw",
+  "leaguePoints": 1091,
+  "rank": "I",
+  "wins": 193,
+  "losses": 155,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2214"
+  },
+  "summonerId": "c5j79a92zfR9Ja8OnLJiuejpZAKHbUR9YlbqHb3mWn7J63H_AlhxtehpIQ",
+  "puuid": "otX5K1t1GeyMw4kmUM_0vIqCJi3ik5P7wyyMmW498gTb17hyohKJYg18Jb7ju0jcuwzUvRJdDB19LA",
+  "leaguePoints": 1081,
+  "rank": "I",
+  "wins": 114,
+  "losses": 75,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2215"
+  },
+  "summonerId": "pNaKzMfR4Qx_Qf-biHdM15NiKIyYSX1z1W1IXkS5MEJRfMpN6g5Z5nLiRg",
+  "puuid": "c1MDrt_Zsk0jGUhWwjA9onXqps4UX7sB_R1DbRRVSUrDstaprgehUmyw5qD43hLEZeCO_zbLE25fzQ",
+  "leaguePoints": 1075,
+  "rank": "I",
+  "wins": 245,
+  "losses": 203,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2216"
+  },
+  "summonerId": "8A3wHrDiqdAaAdatTkwjjUJ0Igb-9Xlhg6ix9gfJ5nD45U0VvK6VhwBbJg",
+  "puuid": "iCNyQUMJ2VL90cgsTfXEsnMJw7dnzbfj2Q8All6UyuOYYLjEntcT0I0PEdfubfEJmEH0zH-_9VF2Gg",
+  "leaguePoints": 1073,
+  "rank": "I",
+  "wins": 133,
+  "losses": 103,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2217"
+  },
+  "summonerId": "8CgOGFDj_EW_kLBjErC9_bOrRqwHWTqaBQKZxlX_aWjEMWZ_b1Gb5GkrgQ",
+  "puuid": "SOusIaxV9KDO0fnMNAZaXoWrY7AQjj5QtZjy1ev8aPKFM3EISFUZVc3PrsE0IBTr07xQMIlJzK9FDQ",
+  "leaguePoints": 1072,
+  "rank": "I",
+  "wins": 238,
+  "losses": 203,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2218"
+  },
+  "summonerId": "5FR3Yw1ph5CCqbUwPftxGoJA4VW7Ga6efwf2C2n4dBiW_T1y1BZTDCVI6A",
+  "puuid": "_TRT85ihjbu-GOEJGitdrGYGx1Pw-gQxNNw6rtBy3o0LmFw14fBOIqojSLp32356ZYWPrqR7JvdbEw",
+  "leaguePoints": 1071,
+  "rank": "I",
+  "wins": 245,
+  "losses": 199,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2219"
+  },
+  "summonerId": "Jrx6Y0o57MlqhCIe06zFeNVZvHxro5m4YAWN5jdtm0JvyfOFsbk93bkRzQ",
+  "puuid": "U1v096kE7VhNwgvnt1B6NQiX5XXY73vFc0H44MTHvcJq_zbmkWCh4D5dWFUHNVpstSIR2ty9Ylckjg",
+  "leaguePoints": 1065,
+  "rank": "I",
+  "wins": 169,
+  "losses": 110,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c221a"
+  },
+  "summonerId": "Qu6h7I_UOTa4jiF7ewcdmOScLc0mPuJrqVWHT-GEWbsQWjuPsC7c3T2xag",
+  "puuid": "Q97ctNccDSvD1zsQ3mjBZpZwZZ3VZLy-UIIsjgBJH0q--nVS1rWDZUi8H9nmwlXUMq98CyyA4ZVczA",
+  "leaguePoints": 1064,
+  "rank": "I",
+  "wins": 124,
+  "losses": 64,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c221b"
+  },
+  "summonerId": "Xoq8n0TlD3s21r_-Rro3KJrzgfzGyc6UctvuUwxragJKVVshF-cTY6NE1w",
+  "puuid": "pWMnedijfInVqtPmWpPeG8GKp8cebzmq3jKQGh5QWPK5I2lR5Gou66BKWqapC0GUIhypVLQellkWeQ",
+  "leaguePoints": 1063,
+  "rank": "I",
+  "wins": 135,
+  "losses": 99,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c221c"
+  },
+  "summonerId": "eEUg8Sw41M543E-O_pPb_JuqciTCM_MLtvqrZ_oZKE0A-3IbXCj8pI5g6g",
+  "puuid": "jGbFsYzQ0xC6ij9gSbzuTNDKYccVU099sTAg-iz1JMZUAlxezu6hQUH7e9GPzd4t9Vx1ZUF6KdL9IQ",
+  "leaguePoints": 1061,
+  "rank": "I",
+  "wins": 361,
+  "losses": 316,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c221d"
+  },
+  "summonerId": "qBQLFCEunUu-QWI_L8wzFojs1XNOrJrOenOCa7gbEzc128hgu-JwEec53Q",
+  "puuid": "I1IHgwKgZBxHKvSIeu0_NoI2yViY5qygalls4nL8HHFTLZUaeZOrUOAh2bbcEldGJTJFlmAcJzutig",
+  "leaguePoints": 1061,
+  "rank": "I",
+  "wins": 191,
+  "losses": 157,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c221e"
+  },
+  "summonerId": "FkMlRm7k8eTtCKWPs_Bmhw9R4PZ4YAp28oGOqivHHHCNrkBbM6LhWpk6_w",
+  "puuid": "3ObnnBVuOMXysnzuzWy9cCgicQDnX1vfQdklquLkN5gAbZCuTPy-wADS-IeqreeSirJiCQrqUayOJw",
+  "leaguePoints": 1060,
+  "rank": "I",
+  "wins": 661,
+  "losses": 620,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c221f"
+  },
+  "summonerId": "5WpukpDne4Jr2VubJi0dUPkZnaywNpJDPYmKvseS7hmHQruIIOq-fNZTzQ",
+  "puuid": "XAOYML5xaAf2Kwx46CDUcj7AC2p07CNtNC1po60uJzmM-BGllmczndVQnCn711NJMYFEc24vn_7sHw",
+  "leaguePoints": 1060,
+  "rank": "I",
+  "wins": 88,
+  "losses": 46,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2220"
+  },
+  "summonerId": "YJUrxJd2EMTy-vpbMewt378CUBNsnWhK_ZdyWQfAqPVv4XfUMSJ1MCuoVg",
+  "puuid": "zGBD-N77gHi3dBenadSQ5fJNQ-FRMDVvYWoU2Mi9HPNaU7edPt0dywZDLZz7FLdGIvxs7j9TgolX_Q",
+  "leaguePoints": 1056,
+  "rank": "I",
+  "wins": 229,
+  "losses": 191,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2221"
+  },
+  "summonerId": "kLVkFeZiTYuCGml9nGxkkQST1_K6zs_9Oj4v1nwhKPaLsFR7o1lDjXmQZw",
+  "puuid": "u1vcW3Upfk66eIx4Yp7GMWI9MniTUl3MaVbsauQjtMQWWpK3KqfERXZC7PD8QL3wyM779oyV_CJ-0Q",
+  "leaguePoints": 1056,
+  "rank": "I",
+  "wins": 166,
+  "losses": 129,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2222"
+  },
+  "summonerId": "_OMbTMpNPd_5JdNexhUxXruDObBWwUK0397NZJN-1aBtG_LI888Efw0IvQ",
+  "puuid": "GMMO5ZVSrhiJNE5z2KYw_yBf1NgnGbQyoNJyL8GIOuskMalpAwYl3YQZQy4DmVRRaEAahHHK_6J3Ug",
+  "leaguePoints": 1055,
+  "rank": "I",
+  "wins": 135,
+  "losses": 79,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2223"
+  },
+  "summonerId": "16pwT0h7L3eKF0IR8jF-Qh2wf0f6UwmILG8ZeOj1VTB7EoJXEaQncdMInw",
+  "puuid": "hukAV-XzGvEY11rFWy7J9Fwhc-WwQH98XlQcIEaTJ8N5p1RAckoLPACdVUiHyDx4PtRg3xoMw2Mdsg",
+  "leaguePoints": 1053,
+  "rank": "I",
+  "wins": 126,
+  "losses": 87,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2224"
+  },
+  "summonerId": "t-30z3FgV-E0Ba-RsNt6E5QioPHaHE1Wj2ygGVz2DJ8-BaGuGnHkBLEfFQ",
+  "puuid": "rgtmkP4zwYyqzP0aZkS4g9ZqhqLzR_dmwS568RR0E39xB8VwxJ53MxlWAAqFvRU79M8ipi8_jKiMCA",
+  "leaguePoints": 1052,
+  "rank": "I",
+  "wins": 169,
+  "losses": 131,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2225"
+  },
+  "summonerId": "ePbFWnI3y3tdw0H69JuBALv1AdFoBggvxVk2QrzP7jeRq-p-HZfT99s3Yg",
+  "puuid": "0qId1WswHLq4n0xrZWnZehkdYKkgc5awf-UoHx8oZ3Zn2jtEHGNfJz_RJ4yfLtyrVpVymFk4vqvrSw",
+  "leaguePoints": 1049,
+  "rank": "I",
+  "wins": 73,
+  "losses": 31,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2226"
+  },
+  "summonerId": "1eD6n1MVen6158LxJbhJWMxRoWkawjRRBLuZGKq3zj9uHVBpPZ57mvfAsw",
+  "puuid": "RkkIbRHCLGdHNYKaKj56AnOZ1rubkdt8_xIWB8wMYsFd7QfU8HUtRqDottpWYf7z58LB7hjeP5D0NQ",
+  "leaguePoints": 1048,
+  "rank": "I",
+  "wins": 125,
+  "losses": 92,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2227"
+  },
+  "summonerId": "L-ZgpoTIXPnOaKnBqCUxokSVvL-hUQZGu1ANz1bdmJiI8v1rNsPCEK0DRg",
+  "puuid": "fdROKh6dXtt0jmm-pf6gu_sXAgDq5LzKGobuUP-UMqCS_GJERUb84dAJ4f3CcIasp-weAuHqesNisg",
+  "leaguePoints": 1047,
+  "rank": "I",
+  "wins": 591,
+  "losses": 562,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2228"
+  },
+  "summonerId": "rRWkQ-mqF_M1bqiutexRB6CCwDpDBp8uy5GxMQs_TXfX5V7cYPI7aIHngQ",
+  "puuid": "ypOscm925IEPVK3dRIhGDDlS6BmIBEYT373Y1KcFJSua90j4UKm3WCE1BjtVjs5ZRIltklP57QgXEA",
+  "leaguePoints": 1045,
+  "rank": "I",
+  "wins": 106,
+  "losses": 64,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2229"
+  },
+  "summonerId": "JNBNfafKKM2OTM94kOrnxJDoi0EU_pxklPrfi_PM1oleUZS10qc3Q2vjqg",
+  "puuid": "CJ4Uc4lgZMTwb9ZwFDiy1AnbdPTW9ncKyUmoDKCtmXFbWBUIPdF0lCkCwxaJjYlimE0UOSuziy2geg",
+  "leaguePoints": 1043,
+  "rank": "I",
+  "wins": 132,
+  "losses": 86,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c222a"
+  },
+  "summonerId": "m2vaOhGzRfw2hpj9GxkbiNg1GpFMGz_VvWfHHEerQUWCve6stwSf9RQsZg",
+  "puuid": "JhqBlNL9fX38ITYHZ_1doZ2THEw9mN5lQN1n17A6qGT31ILX3deWctsVefQvU1BTDZHSoAcqaZe3Rw",
+  "leaguePoints": 1042,
+  "rank": "I",
+  "wins": 266,
+  "losses": 227,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c222b"
+  },
+  "summonerId": "9g4R1fAOFPF4HOrZ6-xkAdGwx-KtOUqRtG3dzJhOXs0HXKZyRxSZfMVNUg",
+  "puuid": "id5cdHrp8znmF-ElQX-h1v1QEsE7CgHnEgc0qzH9cZ3GihGqp63BOzQxe8UtbPLSJEGVzY0Qn3btyQ",
+  "leaguePoints": 1039,
+  "rank": "I",
+  "wins": 263,
+  "losses": 224,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c222c"
+  },
+  "summonerId": "vv3blN7NPa9iYReOFdcT37zmtFVTOjoIrPjYWQLnF2H5o6sgS7kVmDxP6w",
+  "puuid": "BR4G7xBgDsGF2w091miT8qNlfYUiNjt2kBghuHDMV1lphgT9tPgZVfBGlESuQrRtWcAb2tqMikbAXg",
+  "leaguePoints": 1036,
+  "rank": "I",
+  "wins": 163,
+  "losses": 122,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c222d"
+  },
+  "summonerId": "HIUqQ5w3JErwSksoRq6BM9BI68g_e5WPcBgPbl9IdeiWQ7A70BuXgbiNLQ",
+  "puuid": "4Gc0cfaATqvXcj2cg_rZHauJwvfuzWT_FvGGH3S1Lx3by-SvLLitnRDjg16s-NMTwS-dcomJ0xx-FA",
+  "leaguePoints": 1035,
+  "rank": "I",
+  "wins": 690,
+  "losses": 627,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c222e"
+  },
+  "summonerId": "O-bVZejXtxhCjzrTwyWK0U4gJeoxuEUbvIsU7gLOXyHrsPZr9x-eWjwojA",
+  "puuid": "22lPEbu8cmGa0axF3S3lpvvCpU2V6lmkLIHzIhtuXHBhKMTAWq6hTu2BfWMtoq_EbQY5V0FrRSwDfw",
+  "leaguePoints": 1034,
+  "rank": "I",
+  "wins": 146,
+  "losses": 91,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c222f"
+  },
+  "summonerId": "rQSZNcWcD15IK242pVwUBu5nmHBdFNR0phnTLAsr6vHXdhF3DavSJa2BVA",
+  "puuid": "b-uP6uN7H15mvISEozyR8VMXMlzspw-xTjfi9NFYnO794zWF6CKBn9v3GjZiD6c5Dh-G1XaWMiLHmg",
+  "leaguePoints": 1033,
+  "rank": "I",
+  "wins": 69,
+  "losses": 26,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2230"
+  },
+  "summonerId": "sYO7sJiP-G3ZatsbVkaVF6zo1N9DVWfdEktKecWe9AArPAFeadWX_36tDw",
+  "puuid": "lU2ej6eQJjWaAUvUmeFvIHGY-KTV1Txovj_i1qlbZCN0S4skjiFR37VgCVold8TKb72TuY3t-5IUpQ",
+  "leaguePoints": 1032,
+  "rank": "I",
+  "wins": 198,
+  "losses": 154,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2231"
+  },
+  "summonerId": "6unL6QY37dljDMt_xpLHTpIV80ffWKgld7wG4pMMI81t8MWbYk2aGPoDbA",
+  "puuid": "OnMv9T2z2bl9ndIA2YnTVnbtTGvKNrT0Aor3bTrD1yFUpVDp9nci2cN-R2YL-k9-uQhtfkJ8vxclPg",
+  "leaguePoints": 1031,
+  "rank": "I",
+  "wins": 355,
+  "losses": 318,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2232"
+  },
+  "summonerId": "DDm1SnQYZbmS86lBfSQ_b-t16UQ2-Dt4vn7YJ7UMxhYIETlpwO0sZJbOhw",
+  "puuid": "qSOvatyEjegZasEgxX9UHEKSz33rTjRwl2a30F--baolRUBPJcA8gpZK0Nl3YCL2Uy5-0Vnk4VJlYA",
+  "leaguePoints": 1029,
+  "rank": "I",
+  "wins": 222,
+  "losses": 175,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2233"
+  },
+  "summonerId": "xBOaSu7CofC_dt57lUsQDMTh_-vxfuyQ87H3CcWgeMH_Ktb58DSsAZA1Ew",
+  "puuid": "QlWcTnLsq0rFZmSRcPTJwFG1n3GqPEedjMFVtMcHKrWnEZZviZEm5jJ4WLx4MgIeHWPqvQBGPbnkEQ",
+  "leaguePoints": 1029,
+  "rank": "I",
+  "wins": 130,
+  "losses": 93,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2234"
+  },
+  "summonerId": "SBjEIka23UpX_gShxKpb5jCbdUptA7YEU5YiJ1CLEfRufAqxa8pR4G8X3w",
+  "puuid": "_PR0q63TypdZcF4f_7Vw97BiVA6PeQnotUdNrRY7zaGLhQuL2ijynrIL0WVMEkzKhyG5MDG499E17A",
+  "leaguePoints": 1024,
+  "rank": "I",
+  "wins": 368,
+  "losses": 319,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2235"
+  },
+  "summonerId": "1dZ7vdRIXIasOakTo6sLL6GNkF9y0zVduHHjGUBmBlq_aA1_Sbb_Kwz-iw",
+  "puuid": "9DCmGUu9AMBvhdvM3gyPiCz4hSVAgweYeV55uH-GoyyebdolIWzupM1SyeKw0hVp-bekZEyG8YYjBw",
+  "leaguePoints": 1022,
+  "rank": "I",
+  "wins": 134,
+  "losses": 103,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2236"
+  },
+  "summonerId": "mdFV5GcI3nVY8Jp6JS4FF4khty3cfWYHvTj-SbVolIYuNeZ0KVBQD9b5gw",
+  "puuid": "WTkKYucEuYKxiv4FPW0F15vr9a6p6ka_gPe1TpaTh_MzKgKQXY7h9TGqvktllqRx5nwk8i4gOuD2sQ",
+  "leaguePoints": 1021,
+  "rank": "I",
+  "wins": 201,
+  "losses": 151,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2237"
+  },
+  "summonerId": "-pSpnyY2i3MMBGgl7tTC9puF4ssPYVu7f4g5JnkUcNurrkcfAONrC_S1wg",
+  "puuid": "oiOEVGlcb0Rgxre8qTxdp_Wf5dp9A8YqJhNZB-Ar6EABpKwTrTOT5C1kwPsZ4l0AS8qXy2GWQ8mBKw",
+  "leaguePoints": 1021,
+  "rank": "I",
+  "wins": 142,
+  "losses": 109,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2238"
+  },
+  "summonerId": "3OzlHSpVrlY-jCmINoipy6UDJJbhgi4z4FgvqnK7rolrISo6PZrIol4qWQ",
+  "puuid": "ddAwLEgomGvxiTtoplEs8atNaI3EUD1jx3qwY9F3zDjCv2jzlfRfeiiCbqEeREoTj5Cnxyi4aeRMhw",
+  "leaguePoints": 1017,
+  "rank": "I",
+  "wins": 188,
+  "losses": 119,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2239"
+  },
+  "summonerId": "rgrwraXcWwIZxPUWd7VXh-evkxKq7qX3ioLFmZcHTuc4HHlodePSivBamw",
+  "puuid": "5miQP2LomWpc8t_Pdp1zRUYaJaX2LyM75lBV255N6XKgMwa-shMReaVVqoBFFIOy_BUgXvG3pjErRA",
+  "leaguePoints": 1017,
+  "rank": "I",
+  "wins": 169,
+  "losses": 116,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c223a"
+  },
+  "summonerId": "mGLpqHjs6qGgZR-NlhX03L_v-m-nKr7vPnWllueDrQF1XIyNoYG1pOca3w",
+  "puuid": "f79mhyQzChtWNAYXvtxeI4Y1VoB8o0vM5xCdM9l3D3b0dmbeZz-OMzrP7aE2jcaTnLAMTAuV5KTK5A",
+  "leaguePoints": 1017,
+  "rank": "I",
+  "wins": 151,
+  "losses": 118,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c223b"
+  },
+  "summonerId": "ZCokNBC2vWTArHwQf1Z89dMmmyXzJmMtVSnPvyMNEbRFJflja7eraFlyAw",
+  "puuid": "GjlGH4soAt93Idfg6JQ6NUTy0ggTzbHvzsfT4Gg0Td70pu__pWev9r281q-1cr-_jMPaG0fcuMjSSw",
+  "leaguePoints": 1016,
+  "rank": "I",
+  "wins": 118,
+  "losses": 84,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c223c"
+  },
+  "summonerId": "NrrCE9EhGWJoYNn-114w14GUmPQJm6RuALi03PER7yyXGN80ZUA8gcNnig",
+  "puuid": "WcQm6pGB6gVeRj2yPLBbz1fSkb9vMjBR77-cd8IJm0K7j_dBqBClIbrCn4VEaaiKV_BfnyNt_0QWeg",
+  "leaguePoints": 1014,
+  "rank": "I",
+  "wins": 164,
+  "losses": 107,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c223d"
+  },
+  "summonerId": "NMNUayfl4LXisn8GqkxoH-unx7pLtTPQC_hMvH0ZMhLhMDP5I8dnH3Kwbg",
+  "puuid": "ciAdyAqNjItHvrItIFhbLBvDCJbrDAH1wdSPyVVgMzbJMJSMOi8hZvQ3NOsyG2ehl3vod0608qLW5Q",
+  "leaguePoints": 1013,
+  "rank": "I",
+  "wins": 277,
+  "losses": 232,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c223e"
+  },
+  "summonerId": "jpYwlv5e3pw76FgIiPqVEZo-_oCsbZFB-jOjO8hCEGtptx9CgvZOs3Ylog",
+  "puuid": "Lcy7ZmmO0e22mRHV9wyfrKrIrUzS7hh5IfZeJbOUPrR_JCQRLEX202iZnJiK1E3QlaOEYg1IQG65CQ",
+  "leaguePoints": 1013,
+  "rank": "I",
+  "wins": 224,
+  "losses": 147,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c223f"
+  },
+  "summonerId": "KPcpfKjhMlb1Wud1o4UPpvMHR9aKKXOc-QokjZuof9Nlr50kTCbdN4sQxA",
+  "puuid": "ZLM1dd_fg2jF_VObKtMEAsreL0slO37IET-d503vGjja7-T9pUOieW_ZxKNUlZH_3vIpLlX5AkPL8g",
+  "leaguePoints": 1012,
+  "rank": "I",
+  "wins": 122,
+  "losses": 85,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2240"
+  },
+  "summonerId": "PT7F23S3Oq1DbbdICwtYcNNos_ZXteAbA4mxDmzTk9ksbFb10aFjzMGgiQ",
+  "puuid": "r5JpGkedLXqskV9ja93ByNDylnFCTq2um35k8vXf8cgbH2gBluKJnHLpR4eYx3aEj5eqVQdvQ0JqNA",
+  "leaguePoints": 1009,
+  "rank": "I",
+  "wins": 300,
+  "losses": 265,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2241"
+  },
+  "summonerId": "I7h8PtqPVge08-XJ2WElv--MKDFhH0CrQZly8Rq_Gz_hBX-vCvKzG3npvA",
+  "puuid": "48He977ceFF9R4JAWPIf37fM9P4Ji3BP__zN8LtYltFJnJU045FgCCLpd9iM_mZBuJAjRhXv2KgabQ",
+  "leaguePoints": 1008,
+  "rank": "I",
+  "wins": 190,
+  "losses": 147,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2242"
+  },
+  "summonerId": "fBxc5zWB9cT45loGNziSbhbtWzI9OMPTti2J7D7QzpU0ZXOyjHwaeWRyPg",
+  "puuid": "savPtmflm7UdZaNWEU_7lEP5twd74cHuZEhAMBx_lMC198M310SVo5iL0PLtKCjB7XZBNJ3kPUOqCQ",
+  "leaguePoints": 1008,
+  "rank": "I",
+  "wins": 157,
+  "losses": 113,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2243"
+  },
+  "summonerId": "IW_uT7wNZHH7TYlAdh9HMYPDq-hsfmd_vNusALgM7OQ3pxoLmS4PO7uO0g",
+  "puuid": "10lEeYtQSJPpJ5fHn4z5qYo7l-wkA1-MWxkg-RGqojKjbttbaSqOMNtdrjd1CSpZGNM5cJMPpD8boA",
+  "leaguePoints": 1007,
+  "rank": "I",
+  "wins": 253,
+  "losses": 221,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2244"
+  },
+  "summonerId": "UjBCrGseRAZEAbjWk0H6LY5hENz238daevXkjk6HK2Pa8ueqcFSI7K9vXQ",
+  "puuid": "M6rAd6eB413HFCdtrIcLP89y6p5o1pd14KVNl9-45-qdxEHWEa_d9v-JXClvqpI0s55LUKmQUDOoVg",
+  "leaguePoints": 1006,
+  "rank": "I",
+  "wins": 200,
+  "losses": 150,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2245"
+  },
+  "summonerId": "W-CXwmTOXfc5FCg6i8OMKmAQchBOE-nlBpQy2cQNYmQHoCEfvk5hn-zeFA",
+  "puuid": "OohWhz74bb5ffi-kcn12mYf6gG86zYbauGFkvNasMHw95z1dV4i5Dz7AtxnaAdYerStKSGGsSsdG1A",
+  "leaguePoints": 1006,
+  "rank": "I",
+  "wins": 195,
+  "losses": 152,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2246"
+  },
+  "summonerId": "8k5-3rH4fNCNe-Sb7EZQNb5_5xhBw3ISzuZ0N5h59eFwGv98yxuG_LSGbA",
+  "puuid": "VwD4eS66-sz_HL80KM4j3OZboXOtHvK-douWWOnXJhPgK06U-7KACfMcXT1DB7wWNU1qRzE46pPwIg",
+  "leaguePoints": 1005,
+  "rank": "I",
+  "wins": 205,
+  "losses": 175,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2247"
+  },
+  "summonerId": "0mw1uPbZd_xDw4fDZxGwMAsmktauFscR98bzEHFkMYmdQKF1AIY7NUSKNQ",
+  "puuid": "S_NYrPA8EKwGq9DigA7a-amxBg4hmtG2Jtf-uANH__zetiDy-N9bwEir3m2-OWjc6GZEM7Lzs1nCNg",
+  "leaguePoints": 1005,
+  "rank": "I",
+  "wins": 148,
+  "losses": 110,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2248"
+  },
+  "summonerId": "4YGI22R1bFU_yvJSQf-KLbq6VS_DoYttsBMHsHdY-Hww4E4y1delfTr14Q",
+  "puuid": "NbNmImieOHU42SPvkMdqbDZjDsgId4acnGfeUMGa3UnA81eUhOS5MeoL80TSyQOOGejkzn_UOS8ULw",
+  "leaguePoints": 1004,
+  "rank": "I",
+  "wins": 225,
+  "losses": 190,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2249"
+  },
+  "summonerId": "AvQ8xNL9fIk0zupZcNRL5GI1davysnBVQ25P7PTbLuYPAlAReixq4mpwLQ",
+  "puuid": "5CpNy8zVkDioByliOqrXRA-vifwcEXaitw5_ZWrvsGtvTOCds-zJFJbbvAVqEoNcRTDfifOdcYALTg",
+  "leaguePoints": 1003,
+  "rank": "I",
+  "wins": 148,
+  "losses": 113,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c224a"
+  },
+  "summonerId": "r_lQT8YVGMnnoM2rBoodj2ZUHOxQwmxErdyMa0PYoorYj4tiQaojjlc70w",
+  "puuid": "NVTOQobO1y0JLg0sLCZcUOphfJ7qKSSrsGyXBMYJaBgodRCBjSWW7N7o5iZPmVOq2DnKeC6t5Pm3XA",
+  "leaguePoints": 1002,
+  "rank": "I",
+  "wins": 212,
+  "losses": 169,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c224b"
+  },
+  "summonerId": "2LCBM1OntdIp3L3ZASAQwzTVlq_4EZ5IffAmPUEGjKVSC5D2_ImGfrWKEA",
+  "puuid": "wfS7GjUKaDq3H2v9FjBUIMBjqqRP1DbCeeyiAcHecQDih_1wQuNEYhvsXmWzRVjjjykUyCXDvqhXsg",
+  "leaguePoints": 1002,
+  "rank": "I",
+  "wins": 160,
+  "losses": 121,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c224c"
+  },
+  "summonerId": "hUMw3gZak6NLmJpvhkWBapp8yD-klA2WqZNhL_IMZD2mf4Qiz1CEBybZzg",
+  "puuid": "9gaGvB5CXif4OxXv74czehJfD4kUx4_3r1Mbtkl-mvMbUSUwRlVgw_PHEBJ10ik12xU2PXd0L7GZdA",
+  "leaguePoints": 1002,
+  "rank": "I",
+  "wins": 119,
+  "losses": 85,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c224d"
+  },
+  "summonerId": "vcke4qviq0wtFPLAvViWfprOnG65YuxDsI-huq5JyiyoENCPAbFMYXsXVg",
+  "puuid": "t-ioGa3CwHuNO3G0hPWr_DxTubvzhNeSpKgJP6lI0H6dek2jc3RTivBbZemsWNg5Gflw20_Wqqbv-A",
+  "leaguePoints": 1000,
+  "rank": "I",
+  "wins": 278,
+  "losses": 240,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c224e"
+  },
+  "summonerId": "DEQYfRPF10CIWjFTWfC6hysIiUpt3-pOe1vpDoqaj7DnRapcfJ3zQ01RMg",
+  "puuid": "mj__AnKhlfUB6atvDZvIM9azxFZ8hBOZKQGv-rfeHSEByvNx3yWJuddcS4LDfbX6lJRN9HZcudMn5w",
+  "leaguePoints": 1000,
+  "rank": "I",
+  "wins": 229,
+  "losses": 172,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c224f"
+  },
+  "summonerId": "mo5K2fb-6IuXA09xPtqmybLnea40v3CV3-BTftOM_8gOAopclvxGp7nVcQ",
+  "puuid": "sBrnmBfqMFeEPFl1_KoW-vMqghfFkmd64n8VkI5w6ERhGVe1g6tHd3PzklW7Bgju8vFOYhLEKXVB1Q",
+  "leaguePoints": 1000,
+  "rank": "I",
+  "wins": 185,
+  "losses": 126,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2250"
+  },
+  "summonerId": "B7TdDDAFvq0NNKL4ULWBIh8f7elcVcfn0ljtwv9XnQ5l2fmS2nev8Cvb6g",
+  "puuid": "9Q_vHu8JbNbsU05fEeBHgVAS89lvXTCzQ2E5PHgXoi8tAyb8eXoGwD1HEwL3-rVe5K1ImBrUmjUtVg",
+  "leaguePoints": 1000,
+  "rank": "I",
+  "wins": 173,
+  "losses": 142,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2251"
+  },
+  "summonerId": "LyxS7g_5ywygDCq9ZJ6JksC66gji8OuykD4F0nnbjUEI-keKENxcRPK4jg",
+  "puuid": "KSUZbP_S2CSQMVbENgfif2-AQfqRrIEwi98BiEObiirRknmV49uz3x2lhqg3mUl5oOtlGlFJ_qq7Dg",
+  "leaguePoints": 999,
+  "rank": "I",
+  "wins": 219,
+  "losses": 177,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2252"
+  },
+  "summonerId": "JWBZ_n5C7pZPDNioaYtQrQsXOm-5DYIdVrpAtHzadeKGBXa-7AwBSk6J7A",
+  "puuid": "B3up6RDQaWjD38UUr4K95NZGLBbgj7ocWlazN10D3DW5zRJ1DTd2F-LKdm0h3i4cseOisUnYfnwQVw",
+  "leaguePoints": 996,
+  "rank": "I",
+  "wins": 234,
+  "losses": 193,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2253"
+  },
+  "summonerId": "whkLukLX_cxifwxCKRs9orgVAXcTKcOcvvRjj8O2kfh0hCsq7qfE2NjMcA",
+  "puuid": "iR3rYiuQzK4_X2DBRKd-KWzOW_Zcg1ldP-hUH-1tm3aS0EJt3txVa7wg-Gxve8JsHw4L442NqCTiqQ",
+  "leaguePoints": 995,
+  "rank": "I",
+  "wins": 126,
+  "losses": 92,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2254"
+  },
+  "summonerId": "xJsg8mV9uOJESfSfil_C8gGdrMznIdZ4PKfDukTBcrbAADWYT3EEQ0K8Cw",
+  "puuid": "UQd77GjP7Oe_D47p79eCBC_bPgsp7F3YMC1sPfarn6kFF_SUJWsxWQoWgl7ajo89Drnc9DlVjB3BbA",
+  "leaguePoints": 990,
+  "rank": "I",
+  "wins": 218,
+  "losses": 183,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2255"
+  },
+  "summonerId": "X_d-6NgMDklDx-cxCJVL8Gy2AavNzEQjjwx4-_OoRUIEaMeW1aLnAC3aMQ",
+  "puuid": "fC8hhKNc1LH9yPFaXEnA0a6oHWengfWcRUSQ_ICOhQbZU7SP3a0Qq_zHxh5_AAj2EpyPeVi9h3Uu3A",
+  "leaguePoints": 988,
+  "rank": "I",
+  "wins": 144,
+  "losses": 75,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2256"
+  },
+  "summonerId": "qQt1G3ULxLu8EwQH3-A_hAKOcS8EMpQbakBjdWT-5Nsa73zfmwgcO5YNhg",
+  "puuid": "Ex0yWdVeGlAMQ1KLp9M6CjUlRX-k0Cb7JAZb8blJU7LaNXWO6gPN6LsKmhZxkVSkmeuScwg-LJ5b-g",
+  "leaguePoints": 988,
+  "rank": "I",
+  "wins": 141,
+  "losses": 111,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2257"
+  },
+  "summonerId": "50MkC8cp2zmha7G-xdkWAV51lgq8TEvRJm0pRcef_6Rfj6xHSZdbmvDd-g",
+  "puuid": "6-82eylC7oWzO1HNVPFyHBlO7TwQPyJVie2BRihQLi4_0jUA1gLNMBRZ-Q91GIlrZa9aEkNkvnFvnQ",
+  "leaguePoints": 987,
+  "rank": "I",
+  "wins": 119,
+  "losses": 80,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2258"
+  },
+  "summonerId": "lDjfWzEsOWSmcNKR2h3muquYOJyQyB-DLwyFT78VLcq9frKAFEMnPMyE9g",
+  "puuid": "QrQ8yvuijWjswWRgPxM_dhD-mDCm5PxMDjQ9PQoxoAkGlxfzUQQCtPpXlhT7Q2NBpRG136f5R24i2g",
+  "leaguePoints": 983,
+  "rank": "I",
+  "wins": 191,
+  "losses": 150,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2259"
+  },
+  "summonerId": "nICmceBbbHZm1ZFCxFj7WqwNpH2xi7YL7wraCbn2iBR_hEMs6_uwsy35Hw",
+  "puuid": "fS8ifn3o0mXqzr_Aq-tuLl0WRfsR03zgfWhIz64efGv08YUkDrPKM9x1BXbeFhcxBLrT_z6R6kaLhw",
+  "leaguePoints": 983,
+  "rank": "I",
+  "wins": 122,
+  "losses": 93,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c225a"
+  },
+  "summonerId": "YNWZ9EKDV2LjyitVcWxMgtFVjuaXnOoYRKEB--euR9gAwQwNa1mTvmoakw",
+  "puuid": "286HS64f6kDd253u2UbTIz2soiZrIa72JCRe4rv4f-TfDgRhBD4VLoaOgayu1SQMdR9qAFvTceD3tw",
+  "leaguePoints": 975,
+  "rank": "I",
+  "wins": 176,
+  "losses": 143,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c225b"
+  },
+  "summonerId": "X0U87MjAOwk-Skbft_qsoXzumoo6HxpK7wetoCF162-vLt8v6wJnATwDXA",
+  "puuid": "prHeNeNUTfjVNM-NG5wC6OZBaNQ3LEXfE4zOcVxuFM260mjCGw4lB08vlE-WNvdi7-BVHr4MWRDC_A",
+  "leaguePoints": 974,
+  "rank": "I",
+  "wins": 164,
+  "losses": 125,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c225c"
+  },
+  "summonerId": "dwK4O4jMmHoADrsbeCTEVmVcLNvtykzinukpb_jLw4FwQa2MWMpT-HkI3Q",
+  "puuid": "sajqxBMOjMy4qcG9dGP-QOW98upArV9tpUdgAtRxw8-2uGWTakiGJ6-hwxZVVRmrpU3Kr5UOTYKsWA",
+  "leaguePoints": 972,
+  "rank": "I",
+  "wins": 195,
+  "losses": 147,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c225d"
+  },
+  "summonerId": "kU2XFeB1_cXQ_9uCcdx-ginMYQY9SNl_xdojWoJdf0lSdVOnul9vb46Liw",
+  "puuid": "URYoQrkNdKAbc6dfM_leucvMxu5qtqeI3dQ7oUp13jUFQW2-gBXHFfus46herViqj2gC1ccEHwvVQw",
+  "leaguePoints": 971,
+  "rank": "I",
+  "wins": 188,
+  "losses": 155,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c225e"
+  },
+  "summonerId": "2UYO2rF4r5mz-QaRhIBjQjWtuKqK7zbkauz3x-ZUqUPyof-cG8aFg_CHOA",
+  "puuid": "uHVaChE78-CeriheI9wokO0KYTRGJusHcc2hm0Jw0S-0lvDRvEFlMOGtP7Ei0Xr8-UwhK0iFo0IAcA",
+  "leaguePoints": 971,
+  "rank": "I",
+  "wins": 131,
+  "losses": 91,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c225f"
+  },
+  "summonerId": "mFhni6LTtp-b291uALUMzbjBRgmOr_SAQdl6LgRZAaP844Qw6Cs0ToVmwQ",
+  "puuid": "_gn7o2coiggWeA8gpNSwdK-DElZDSmydTLFgAisUYKhRV3gjKcOhPQ5jHh5PSeHdeAu9gfB5dV2vSQ",
+  "leaguePoints": 967,
+  "rank": "I",
+  "wins": 281,
+  "losses": 241,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2260"
+  },
+  "summonerId": "LtX6U_3RbbwGMAnkGEIKiC073N5Cwh-8sUoJw7bTDWgKGq2F3eTRSNADEA",
+  "puuid": "21UG79XkIMzeiPU2Fwx31jf2mzDBNzQogmPzpfbLsTLvPAXNc5ETIyZ_a8BdMnrzXfNgO_T2VSPJgA",
+  "leaguePoints": 967,
+  "rank": "I",
+  "wins": 152,
+  "losses": 104,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2261"
+  },
+  "summonerId": "M_hcVED0z13BMxOPjHa2m4bppW3BDNt56luEZxn7v4aNM8dJMRpkmNjamw",
+  "puuid": "LpD1ScK1SypPNf0sL1rfFtu2DcexvuEfcDaYhPXTHVkoCT-0arjtxp8YEqWIGKXyJHHA_fHKSCTaxA",
+  "leaguePoints": 965,
+  "rank": "I",
+  "wins": 260,
+  "losses": 217,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2262"
+  },
+  "summonerId": "nAulDzmfjF-1HTKTX8oSkzVJSVeaZp8zPbPi1dvO6utnaa0P1n3sZKRTZg",
+  "puuid": "Mw9pnUguHIpB0WBiTUDNYHjjOXSOYSoEvfyA_kanPpThVgEyV1CoTKBc_uEa1wBU7mnBKFSjEYrhnA",
+  "leaguePoints": 963,
+  "rank": "I",
+  "wins": 178,
+  "losses": 77,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2263"
+  },
+  "summonerId": "T7M8Ex-NWjRWW5Ydk610Cb1lR0qsJ1O6CSVl7fO3zxUyx57Qct9zDs_Iyw",
+  "puuid": "Ge7Aqa-SsFAXCjKHWAdiX8COPN9MbVDCoH-mxle9AJGUhVSJLvGmOoyZQnd3FHMmm08suQbCIar04A",
+  "leaguePoints": 963,
+  "rank": "I",
+  "wins": 146,
+  "losses": 117,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2264"
+  },
+  "summonerId": "pkBbfCI-hfVffMmqMk3Pci3ZyQI4O6t6dWoR8ZzqV0-cSCieemzwdgr2SA",
+  "puuid": "Jt78XTeMM3TSWYKQobTCqdJvdBBUHZkVMI3Y14xWZJyqEAf87_5nuVRfFxuTdtHU1SVCMTmExeN-Og",
+  "leaguePoints": 962,
+  "rank": "I",
+  "wins": 372,
+  "losses": 332,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2265"
+  },
+  "summonerId": "hPnMKHfziC9Uu5UwSHMLedn9WQVyz5RV9idSMk2Ij2P1GF53FqPn4DNy8g",
+  "puuid": "sq4FEMEf0qjnbg45S21qtXFHIANlGrBnD2XfYZbPfMof4fNLIGuec0nYcquaq_NvxAmhsGC1g_D5Jg",
+  "leaguePoints": 959,
+  "rank": "I",
+  "wins": 242,
+  "losses": 202,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2266"
+  },
+  "summonerId": "rWcH5GW6gyrGylStAhQN6LLuDfwzZv6O8brfCxbUPWmrGrq09fJWWOniGg",
+  "puuid": "s03cKJXvAwccVyI3MqGFeng7IZ_QIYMlfCmqQYhEYsi4zvsgqC-_T1CoJNBQqvB45kb061VGIJUwUA",
+  "leaguePoints": 959,
+  "rank": "I",
+  "wins": 242,
+  "losses": 209,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2267"
+  },
+  "summonerId": "REVB6siHomg1GbfiXHWCtYOO23w9YIrcG2pVpKh6vbF0VaNcQNhM0La95w",
+  "puuid": "8RhkgmVvGVxOwNAI7K1e7WjTUbUlBvUqitIi85QP-or3XHbsp71D9JnocBNFJIn_tjnGguqU_ChDGg",
+  "leaguePoints": 959,
+  "rank": "I",
+  "wins": 186,
+  "losses": 153,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2268"
+  },
+  "summonerId": "m0XPxKA5d8BfJUH-kMSggsv4fpMMAiS-xGmJsQmT5o9arrLjIk3MyGua2w",
+  "puuid": "RtndgApyvgHbk35Sx1UQvtJzz82nI74IXdApUNIxaSHf14m3ZIFH0AwGGiwraeAy-h_RfLnA3VH3eg",
+  "leaguePoints": 957,
+  "rank": "I",
+  "wins": 105,
+  "losses": 53,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2269"
+  },
+  "summonerId": "iudoAMgs3pvhYC0abqG7MQzOFZ26iIna7VWHHM-8h9KmaHHbBIEfWhE4Xg",
+  "puuid": "uuG3OOBRUXb3doofdFL3brhlYT0j0AULjXKeJAOd-tsHMYbEg__FVvgOYD9YH1cEba-ugJnJO2LKuw",
+  "leaguePoints": 955,
+  "rank": "I",
+  "wins": 214,
+  "losses": 124,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c226a"
+  },
+  "summonerId": "IxqfkQ3u9BNri3wwdLeHMY6i7aUajWJRhLG5iPx7bmsedyhIenhnFrShtA",
+  "puuid": "M0lsinzrYfAPHD_lpySs4DGrYbDf6fE_PdLp6sxdgy4ccQVguU9aIQu0hVkgGBnVxD55u5yEu_Cxug",
+  "leaguePoints": 954,
+  "rank": "I",
+  "wins": 184,
+  "losses": 154,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c226b"
+  },
+  "summonerId": "Bc_M75s8HLL7bb4mtpl0cQ4xSXHyKfpPwOSzHWexNR-tVPlTQsU0DjnmLg",
+  "puuid": "8LJt5zNZ4mtFB2eDkFIEIVlrBs8YZcgJIfqYacfd-BF-cWJ9Mwmxexu8TqpNsJI1Nktw8vSZ3hohGA",
+  "leaguePoints": 953,
+  "rank": "I",
+  "wins": 198,
+  "losses": 130,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c226c"
+  },
+  "summonerId": "cLTrhSaWMjmPGisHFvP3vq7umZIkUH4q_5LW7LmVXBAXLOlJqcjN-lJmTg",
+  "puuid": "k_dF6NTW23uSmhvAe9LLlFp3VQ59Qznafk22wEG7NNf0fE3HBvoNusA6wPWBLpTMa0jYxw_6TBiVxA",
+  "leaguePoints": 953,
+  "rank": "I",
+  "wins": 113,
+  "losses": 78,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c226d"
+  },
+  "summonerId": "ubq_iPMLZ9YMw56Y-bRWxqQOAaZfP94_tAMwMakQXFyE9nTHwZnU0rMUwQ",
+  "puuid": "ViQZ5cPMC56Mf1Md8NdSSg3BJb1fTTqnPEn0NVnerWGlq4k8VTxibc069Tepvnz0UR8fAv1S6pL6gg",
+  "leaguePoints": 952,
+  "rank": "I",
+  "wins": 320,
+  "losses": 293,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c226e"
+  },
+  "summonerId": "YP5s1nInvs5135qiwFxlMH0iw8lk5GyzrmWFP-7OuTJPhAef-OWkykjhvw",
+  "puuid": "3LKUbTLbm7wObzJmBFaPY8YOYuZgHlnzw9TukAvP9WMb2jh92Uy6uNbEwf9P_DZ8Dg5Bean6KI6F-w",
+  "leaguePoints": 952,
+  "rank": "I",
+  "wins": 167,
+  "losses": 134,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c226f"
+  },
+  "summonerId": "bBhzO-FxHrLNUyRKbDGKFyyUrEGzT6K-eAQELwtOB4_KwGSghkSAAYxqtQ",
+  "puuid": "8S3r84V64RBbi4Pv-GSMJH1z9bGlL9vNZ-9756qQmjzAQnc_oAyZIMaV6CS-8faEI6LSkxU2vunXRA",
+  "leaguePoints": 951,
+  "rank": "I",
+  "wins": 243,
+  "losses": 208,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2270"
+  },
+  "summonerId": "3SD47ZzOgPANYNUfolrvHq0HC4gpbMpcSNaGKjwejcEU_k3IrzW-wTX4IQ",
+  "puuid": "3Go9l2bkQDN61Ep6xwVcSe0V5nmIpz4o7dHawvmEsd0niUVQDa6XTVpDJ_G6ymHHWSGw4LV6kp7Y2g",
+  "leaguePoints": 948,
+  "rank": "I",
+  "wins": 410,
+  "losses": 341,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2271"
+  },
+  "summonerId": "_WowESgIqy00nuWW3TDHmoItizIw9x6KSksLz4RTAq8ZWvWmf21j0K6WKw",
+  "puuid": "T0ORZWIIeU6I3b858zj5Jh5dL5L9mJv1UB0PmggHqP3cwkS5pFB17nJVzMUxK_7L3kf6WWXadE17fQ",
+  "leaguePoints": 948,
+  "rank": "I",
+  "wins": 251,
+  "losses": 216,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2272"
+  },
+  "summonerId": "iAlO1bepgSa2Bh0HVwm6FEURiqLsN74Tg1tl5PSlOe18OI3krG6tf79XiQ",
+  "puuid": "2iUcUmqL4JVkNnKZ4D-T3zi7R9OdFTTAorV7gN63f4C80y1irrpL7j8cN3CSeGiobK3t7RmbvYxfhw",
+  "leaguePoints": 947,
+  "rank": "I",
+  "wins": 215,
+  "losses": 141,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2273"
+  },
+  "summonerId": "PLA0WvKOHbe2I2zHgHHDWp52bX4sjaZJ68Ld0lSZjg-9UMXquXCP6js7QA",
+  "puuid": "etyBleWxd3m7uk91SssAUQixQ-vFj9BW1Eh9xBZxO9qeYgghsE06ctymfA0hnXNZ4icJMrAYoRdr9A",
+  "leaguePoints": 947,
+  "rank": "I",
+  "wins": 165,
+  "losses": 132,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2274"
+  },
+  "summonerId": "uUnKr-_INF1GvmZxiMxwF-bTBFuA30AhURHpARffL-QgVq-blFb13-RvYQ",
+  "puuid": "jeAQDW70T80ZwyemQ8a7BzGduiRy9eiCEnIrxqHLQ19KnUZxU0M7kCw097gAEq0qqqPsVgBdyRzi1Q",
+  "leaguePoints": 947,
+  "rank": "I",
+  "wins": 148,
+  "losses": 102,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2275"
+  },
+  "summonerId": "e_i1Wxi_QsqPY3_RNDmdSYvrrsO4gQ1BkZypMS_EyEK4M396cEI8TPyawA",
+  "puuid": "qxKy5THEh94zvnyvQCBKYlBxWxGJKgY7n40p7gHy4pv_7zydARJk0P2xYRGTdzDYzIfm8vOa_KwQag",
+  "leaguePoints": 947,
+  "rank": "I",
+  "wins": 83,
+  "losses": 43,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2276"
+  },
+  "summonerId": "jBwFRrGuuVJnftczLKtUaL57IHFQcPA39DvlBzWeLqvooWZ-mrb83_A9NA",
+  "puuid": "MBE-rRBY78UsCnv9xeS05PZcJ3107Kt1HSHN8IWGoIPeeMt5VU6B95hHaJgSeu5VECthm-pHd3_Wjw",
+  "leaguePoints": 946,
+  "rank": "I",
+  "wins": 402,
+  "losses": 345,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2277"
+  },
+  "summonerId": "aur3hTfrR96JO1jrpZMleSrLOysKvGX7WyRpXb6E09cZPXmTZHIkrjaRgQ",
+  "puuid": "b3UYlm-G4Eunhty_23TIN39SzdXIuaoteL7ch88HrVU0yjYd3Tj4xFNKSCqzUnvN2JkTAJiUDhiMww",
+  "leaguePoints": 945,
+  "rank": "I",
+  "wins": 114,
+  "losses": 76,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2278"
+  },
+  "summonerId": "V5e-NvnPfTOJy-PEoNjio8nowflCayKkjgQ8YU6xCkDQeOe4iWbd2mxw9Q",
+  "puuid": "qefMy1sVhaA9kbjRxnb6PmSwUF50XRJwFiVnUALIonikQmTS7-NL8e4EeOzJkkIB6Xh4MAQQE8_R5A",
+  "leaguePoints": 943,
+  "rank": "I",
+  "wins": 240,
+  "losses": 205,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2279"
+  },
+  "summonerId": "7PmVnsdPduOenRPkAHkFONJnTegq9D2xfGZxAZea9qR-femF-qB1EtDsSw",
+  "puuid": "FDoJsg0sznyuSIewq-5-XukXGYcyTpWjMknZlfL-k3ydf1HxEnEL-iJWLiAp2_cNI6eAarPbqxVr3w",
+  "leaguePoints": 943,
+  "rank": "I",
+  "wins": 130,
+  "losses": 93,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c227a"
+  },
+  "summonerId": "UW76-pZcH_5-ULRg8BB1D1vApDr2iTUHLBn1yNbC0LghGHBBafv_Df8LTQ",
+  "puuid": "X__9Ap5ocAsBd1pyVzXAobqm0SHBu3e_1oQbAPX0of1HzUDANtHhlBGk9Fo-OJSy82yWyFdypYo8iw",
+  "leaguePoints": 942,
+  "rank": "I",
+  "wins": 146,
+  "losses": 122,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c227b"
+  },
+  "summonerId": "yd-pA3Ga5ydviVJkVRr1qdArMM7vO9OHj9GPri9Vrkm0v0HT1v4lbgiWIw",
+  "puuid": "CJHK9R6CSF9F1K0z6WqjHiBMoNHabE8ufqbBBq-Zu4VWqNQdy21X3tP7W60rxHILJgs3FAvibC-4BA",
+  "leaguePoints": 941,
+  "rank": "I",
+  "wins": 398,
+  "losses": 295,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c227c"
+  },
+  "summonerId": "JynUMAMpkUx4QI475CwGvOiFTsMpfuE8i4WoPK181hfZb1SRKY9scNkC7Q",
+  "puuid": "ZEF1Gavfak_JUE1OUtQi-I7B2blkzgn_0fNZAaYg7543kCHT9bMoXhGbk9kG2pS17YCdc_x_0HmA7Q",
+  "leaguePoints": 941,
+  "rank": "I",
+  "wins": 233,
+  "losses": 205,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c227d"
+  },
+  "summonerId": "cAlEP2ow-55YtBjgFaPSD9UyTiR3GADjYvF8EZRlvQMad0ooHbN3BooucA",
+  "puuid": "eYOIzlq0SmsjB9YUWsYeYxzrqOI1YCLp2_10wAyMLBGhPdD00hihnpWOL9q08Qxa4HjKvWK_6s4wYA",
+  "leaguePoints": 941,
+  "rank": "I",
+  "wins": 143,
+  "losses": 117,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c227e"
+  },
+  "summonerId": "nvzrzQNreh7d17d6qTWP_LrJNC720cagr2Rdxx0mOX1uhLSeOFkvZXXFbA",
+  "puuid": "Vn-osFOjBNvtdL7Lf4J4yxuZNGLom9IG5qtpEUx7M7bHseeAaydFVf4EvfvocT1e4lm7H2EMq63T7A",
+  "leaguePoints": 940,
+  "rank": "I",
+  "wins": 128,
+  "losses": 99,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c227f"
+  },
+  "summonerId": "fGe0LnkYkjz-KDWcRQKkckVjtVR4klj2Ouegg2_xN9EuG5NQ-Vwhr3gLwg",
+  "puuid": "AOjFPZLs-VLarepg1zVgw31w58LTT4sSZOBS27PXts2O39SJ0k7G0LuZIkbTNEu70Clo-xNmCrrqKA",
+  "leaguePoints": 939,
+  "rank": "I",
+  "wins": 536,
+  "losses": 502,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2280"
+  },
+  "summonerId": "tlKlyFVb5Ey_nZ6okDwWh7sKp0ag1EX29twUBkuM1SZiwnGCr8Aq_udZ6g",
+  "puuid": "cY5dflDfZUjvGZ-UE_hDsYgAYgXl6o5b9zE1NhMLp_B1eoxnGmxL7u2V_vKVmsfU_J0GLpzn3k-Nuw",
+  "leaguePoints": 938,
+  "rank": "I",
+  "wins": 250,
+  "losses": 212,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2281"
+  },
+  "summonerId": "Dzl-frwoUiNb5RwP5wuiG0WnUPn6lCDVCuTWBUmAlg8ul81KHg2f2uuoTg",
+  "puuid": "9JmBwDL-7hCBLTiyU3LV41qdIIIiMwGZGYpq4hAevEbRCgXh7kkGBD5AZDNuWy1_8A5FotngxPhZfA",
+  "leaguePoints": 934,
+  "rank": "I",
+  "wins": 126,
+  "losses": 94,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2282"
+  },
+  "summonerId": "S3uHaXLhV8pz7yhLGPAuLHdJNx4EsV9BMp4qdwtwNeSGcZeWTxxxHAAKJQ",
+  "puuid": "_1QhiaoEg76_9L_NrOdEyP_YToP7VgnSxJhzLwP3JYw3JyP4rkklUyXuVIgOzVo3kCpplngqK5cAqQ",
+  "leaguePoints": 933,
+  "rank": "I",
+  "wins": 165,
+  "losses": 133,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2283"
+  },
+  "summonerId": "CWCxgkwfqrhtMUmaGZNf8wgtPW1Ps-jjjc7ZBGnp2S11VMmf6pyWOT63pg",
+  "puuid": "I_gLOlc6dEBSbkhoG_m83TujkxWMptBoeidziSSy9miz0_3DOasQljei2hEp-jvReZvsrnnW7AYN-Q",
+  "leaguePoints": 932,
+  "rank": "I",
+  "wins": 140,
+  "losses": 110,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2284"
+  },
+  "summonerId": "47gq6YUeUPtuZuVNAqi3I-wXM0QcLOFuOd-2By2SLW-bOnwBVgiUdLCzSQ",
+  "puuid": "zNFWW6YUXNgHFupsAzDfE5Afpe2whNyfOOA29GDSH_ZlcGjewad4wdM9NsfNW4B3Cak0vogVe4oNmw",
+  "leaguePoints": 928,
+  "rank": "I",
+  "wins": 143,
+  "losses": 101,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2285"
+  },
+  "summonerId": "vm0Azyz7AxwaTbUe6MoYXFrldePOdYv1FfK9asSuaDcr3z76n2J3CSukdw",
+  "puuid": "8qDA_CBYQgmaUeFMRZB9yuTSmRBvUXq9c8-EO2NFTJ-Ew4rMJf9BI6jUzIpIUlIR3xg_20Ua2hTKwQ",
+  "leaguePoints": 926,
+  "rank": "I",
+  "wins": 179,
+  "losses": 132,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2286"
+  },
+  "summonerId": "H9wGoeH0Q6P3zbp66LDY7U-cv0YBdux01YA_XqSnQAEh7Ksgqe9BlvyLcw",
+  "puuid": "po84t0psLcQBjca7LumNNVmPSSDdlIntnHxGYZCLjT4S0rBv1sbBqWsl52WoE6oSyaXR3iq0_4qQUQ",
+  "leaguePoints": 926,
+  "rank": "I",
+  "wins": 130,
+  "losses": 82,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2287"
+  },
+  "summonerId": "2A8Fs-AMNQRkW1eRBLPOa8EPQOybMKSqZV7mdcUjF84yPj4V7yKJjPuvYQ",
+  "puuid": "izYGDlNTWsAUbMtuJ5Xvzd6pDbFuTre11dHdNU2KDVSaeZyH-22RbiFJ0Zjv1HV95cz_LPP1PHcg6Q",
+  "leaguePoints": 925,
+  "rank": "I",
+  "wins": 186,
+  "losses": 141,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2288"
+  },
+  "summonerId": "RFgr0EW1m26zyS865Hx8E3npKT3uMHNbeeOx9VqgV9KXEjFMCNU3AbeVSg",
+  "puuid": "NLw3tjohFVCPOagCaxcdyjYdt7ZcicN2yEx-LRtDbU96Fd61UB_DV1wRAQCWnFJyKYvc9edZRm1jbg",
+  "leaguePoints": 923,
+  "rank": "I",
+  "wins": 159,
+  "losses": 110,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2289"
+  },
+  "summonerId": "jbqTcekcThXiMu9ASAZJVLmcqrazFqW29bPHjy4hBD1I-n7WSz9Own2Aag",
+  "puuid": "Sob39mMn7vZyFLbAVCLNdHVSMPSKCZZ5x5NmyustAGnjOQXb29D9RaiAnb4DfRjy5CGWoKoHbNcpBA",
+  "leaguePoints": 922,
+  "rank": "I",
+  "wins": 151,
+  "losses": 115,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c228a"
+  },
+  "summonerId": "uHbKwZ6pE0YS1HE3Sgal4byXYNJEdKZD-s4Q8ujCxtpKeZAp7GVH-angTw",
+  "puuid": "NfIG6_nX5p6ff_BtipGwnlB-FJHI5aWulMROxNAPCtwO0EyMTNLZCpSCvQCXPp52IB0yFDwrrHH9Vw",
+  "leaguePoints": 921,
+  "rank": "I",
+  "wins": 201,
+  "losses": 159,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c228b"
+  },
+  "summonerId": "SVs0_ekZjqn8fAeVQxqAir93StQBlvrags2MQqQxxab1tcuOBu9raVMWrw",
+  "puuid": "cKEBkuEeZHdXZlQ_vR9as5TI2hrD47butV1i7y9MgJzrWv1YZtc0Rw8GxVhE1Nz46QGzgjgmO8NvdQ",
+  "leaguePoints": 919,
+  "rank": "I",
+  "wins": 354,
+  "losses": 316,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c228c"
+  },
+  "summonerId": "HEB0wlUs38vAq6G9An8XAW0PPqy5K4hLhgtKae21IAhnN7On64osTY0kCg",
+  "puuid": "Fq4YP76QZcxTO863UyXGGdrsDkuznNfhmiVAWUzmc4oMLnLS4m4kKv19W7kxo_XeIlej7rGoccIw3A",
+  "leaguePoints": 919,
+  "rank": "I",
+  "wins": 309,
+  "losses": 287,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c228d"
+  },
+  "summonerId": "l3HvXw659wKo6gLy34CVVH58U_YrmTnLStQ9mPra7RYh4AOl1hwycFAGXQ",
+  "puuid": "ZBDHkeTZBHmbird6yS-pQ-F9u0JifwhlluvgcDICxoMubKM0co_JS-28I-6JLv7WMZ6c1RQYid4g7g",
+  "leaguePoints": 919,
+  "rank": "I",
+  "wins": 177,
+  "losses": 144,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c228e"
+  },
+  "summonerId": "cXTyoMvEx5pbQnJZ8G2I-KA76lZR7od9ss_qhyzmvrSLzVPxFzUSvFRJQQ",
+  "puuid": "bdo0gBeEGr1pOSqZYHr8b1SXrz7NfFLseGGgNOMYGLEc_3kAYNh_ms_nT5M77pSpy0anxrXhVe7d0g",
+  "leaguePoints": 918,
+  "rank": "I",
+  "wins": 131,
+  "losses": 96,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c228f"
+  },
+  "summonerId": "mCbAlfHqDOBZe0Igf-wJ5lIf3O7DkAX5g8ZBdQd-6f6bqzjBBnzy9TRHmg",
+  "puuid": "VdAq3PlxXXBZHdjGzM_ygWZrQdQ6ZU3jSrQaD329MlGqyBtEtatG-o0sDadiwf_1dtKJtjFF1oa5bQ",
+  "leaguePoints": 917,
+  "rank": "I",
+  "wins": 309,
+  "losses": 264,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2290"
+  },
+  "summonerId": "8EgvXqILnRNYwlYQxJZ0zoWhxs7WSL5cwv0YB5HPFvuAo1KwwLGFWQBaSw",
+  "puuid": "fl3PyE7KjUqwBDMz3oA9n73GfMtqL2xjsUekvs38aC-P6taCgIz5ZX7sLFbnTPY5CgOykpgTlTOklQ",
+  "leaguePoints": 916,
+  "rank": "I",
+  "wins": 269,
+  "losses": 206,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2291"
+  },
+  "summonerId": "G-hwyzi_zyfVjAhbzzYCDg9YAQumMiQD_EXr8FZQh3bk_DgfgAPBQWW2YQ",
+  "puuid": "GIoQ7q5Dy1MC27vPJLLjl0FzF52rQi5OdUl7BeoYIp5CIud4yaPnBDvYsBz_cg-67M7hqKC5DjHs-w",
+  "leaguePoints": 916,
+  "rank": "I",
+  "wins": 203,
+  "losses": 165,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2292"
+  },
+  "summonerId": "pXBgVK9JAltPmFZHeWYA9moqbattT8ZarfnGg3Yn5x7jxhaJZ6R_XLEPGQ",
+  "puuid": "wD0Dz7mNaFX6evnAWWa9ngONvtbcta1eUxMzRRGQdSf-Hrm1PrP6iJemqia_V-gW-7Lbapd2xsXxmw",
+  "leaguePoints": 914,
+  "rank": "I",
+  "wins": 443,
+  "losses": 398,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2293"
+  },
+  "summonerId": "nJ3epoV7W9GtlcmuyDlCS8JjymWg36WHICxtqBbcX9SDtjwsLFiH2wZfEA",
+  "puuid": "27a-7w4iYeRImzy2S1nibdf4nW2oQLWUjZjJ-12IMAs6IQXFRLzArxDGM0lr7R5WXrJzMTiZNKbOEA",
+  "leaguePoints": 914,
+  "rank": "I",
+  "wins": 347,
+  "losses": 320,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2294"
+  },
+  "summonerId": "_a4qTf_SROvOtybsxJgJFyaMPrWAJJyEfdA-nQbMZZqDLc_vMDcbDkv1Og",
+  "puuid": "4kY7e8SN3TAJEvjj6P0LLbxgwkHjmBp_iV80zp-O2aAjwrCVMN6FUsLOcP9tiliQzJCgwhYltKqGgA",
+  "leaguePoints": 906,
+  "rank": "I",
+  "wins": 588,
+  "losses": 550,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2295"
+  },
+  "summonerId": "p0UaEAHHVSGXqkSmqmStH7lS-2KmRsJzk2Ukji1ZJ9TqYh4ZH-V-3I067w",
+  "puuid": "c36oA7nzVmRtVZdq0OritCUu4jEpjY0UbRhMpNzXiUqoMnOkwGRcK-LGd94ESj033zs0YotLEbNLaA",
+  "leaguePoints": 906,
+  "rank": "I",
+  "wins": 298,
+  "losses": 262,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2296"
+  },
+  "summonerId": "2Zcuj1WbotOaOdq2p7fxz0M9lPr0IwMAPigTIbLKTPSjvsZoq58kLBiMPQ",
+  "puuid": "bBS8jOb1u9Hv_e6LswAYBEvyrooRfMOI2bH0eZHONLMMbZ03xTWAvbf2etVUnPJCGbzUm77TzSuYhQ",
+  "leaguePoints": 904,
+  "rank": "I",
+  "wins": 371,
+  "losses": 332,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2297"
+  },
+  "summonerId": "LoYp9TspWFdczSn4QX6hmKYMEqIdXG4Ftuuchb4fd386Z2nFswM6YDImbw",
+  "puuid": "BFHwh6jCqgXRd8NFDOIIqgGYznVLNnl8aDknn5nCc5AsfhjNTFFYIymKLdixdAmA1jnBqgLkleJXAQ",
+  "leaguePoints": 903,
+  "rank": "I",
+  "wins": 279,
+  "losses": 229,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2298"
+  },
+  "summonerId": "gNig2v-j9pRm-TUsHcL2ms81h05SMLvQk-NHWxeKVvdNlJBVXTkMbBFZLw",
+  "puuid": "_uY1N7v-Tp_DGmSKIKIjq1k1UpDvzGsSZ3Fn9JCCP5CBGIrn-UIrh_9zzfgr_rAnrZ-vtyx-ftWsAw",
+  "leaguePoints": 902,
+  "rank": "I",
+  "wins": 126,
+  "losses": 80,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2299"
+  },
+  "summonerId": "ML8ybrVS2SrIgCNhFrXwqChJWMHxkz35-ftBz6vL6RYNoXhgz_bjXVYWAg",
+  "puuid": "3rfwUuJTKtI1JShK13E__ySRchgtcR43xhQTNDeJWn-BrrKzylVFLp40HaQRFSENFQhzOMF642CwwQ",
+  "leaguePoints": 900,
+  "rank": "I",
+  "wins": 163,
+  "losses": 132,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c229a"
+  },
+  "summonerId": "qBswHMkLrZcPUsXnxJkTinLEM7IVLaGr5VteQEGTEzXGUKTzur6o1ebgoQ",
+  "puuid": "v6wS1PH7O3fTKEuV_-ICB3iQiOhKVTCjkwtl1sjJhRQL7qeh7Ni6_7jK3iWZRqCccv-EuJTZlYL-Cw",
+  "leaguePoints": 900,
+  "rank": "I",
+  "wins": 160,
+  "losses": 132,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c229b"
+  },
+  "summonerId": "gffMnaHOWpz7pAe3u-U_LxpAsfaTwmvWG6EUiumkmpN_IawPFzC5oa3rgA",
+  "puuid": "v66LfLiq5AFFnQ__mEpAf1CV0FDSflBWrE5Dnq2p7dJRCV9glANT8r_hayl_hdgK1RrZRygg_FdtAA",
+  "leaguePoints": 900,
+  "rank": "I",
+  "wins": 133,
+  "losses": 111,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c229c"
+  },
+  "summonerId": "F-L6cEUjoWlNrJHEFCHuzKkJp2d73-9T_omGlsT0LZMSlY2ovDnQZOma4w",
+  "puuid": "fQKAFdjT2A9yQ8WGuXu6oLDWbXiOAZimtApZmrr09ACTr5FluJnD9XajFvmW-Abgzxcidhfd2xREpg",
+  "leaguePoints": 898,
+  "rank": "I",
+  "wins": 165,
+  "losses": 125,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c229d"
+  },
+  "summonerId": "9O2tbL3zGZOZj8Vc39ABMlUWh3chqO354JV7PgK2Y29xn5v7TfmeOMN9tA",
+  "puuid": "yEs2HmMgV0qBJXy_Bj8-QwsPlY9WEvZQINOUA2Je4ur09EXMFtUtHAy9SU8vp6QiYe0LCQ25kvH3dA",
+  "leaguePoints": 896,
+  "rank": "I",
+  "wins": 142,
+  "losses": 107,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c229e"
+  },
+  "summonerId": "qAe59CJxpOYozaXu94osZ8LdGfffvr-X9g1RPdunlc75hUZ2r1-2yKbwxw",
+  "puuid": "cMcwz-fZRSrV7srtmneu7ySISKOC9uUEcCd--GErGNhRrFoshd_t7ZtWIjQfygsxe-LIZ83JdzXWJQ",
+  "leaguePoints": 895,
+  "rank": "I",
+  "wins": 332,
+  "losses": 294,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c229f"
+  },
+  "summonerId": "2tGfM6iQaGElS-NPJEjJBOjbyUX6J8KLwA4OqZqLY0OIFH4KuevPyT7GJA",
+  "puuid": "vAYKBP0gqETAJ8H1oMps7gYD5RrB0w3b6DuH1nVglp9wOOCjNohDQUaRxDIN-PRfqjIVIiqGRlZBgQ",
+  "leaguePoints": 894,
+  "rank": "I",
+  "wins": 206,
+  "losses": 176,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22a0"
+  },
+  "summonerId": "fhcu3_89QDMIWy4GJVkNG1Qo93ofwV1isxIa75_3ZbM_gWkTQWbFFAPx9w",
+  "puuid": "lBmpX_rZ_2j0iqMBo7HdmPb5hJqaub_28z3IDhWq2wCOmpK8Fey-tldekqNP4SKkf6jfdr74CJu9uA",
+  "leaguePoints": 894,
+  "rank": "I",
+  "wins": 157,
+  "losses": 130,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22a1"
+  },
+  "summonerId": "5UpYDlVYgkBaGk_y9qzDmGWeB9bdB4qZN6iOv82wAurB0Lu9stzzh0Xq8Q",
+  "puuid": "uCKTJHYeNlTczzcDGbe1iQkW3s_IrcYNgSgN0bfzkBubEF_yxyqSpNexooMpqEBTMOW95Y1mSjkH1A",
+  "leaguePoints": 892,
+  "rank": "I",
+  "wins": 283,
+  "losses": 255,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22a2"
+  },
+  "summonerId": "PvrUcDNKFNIwJ3KDMpnWNOWBxOwgRCWaCYHTCpKg0RkCBZT4ftWXEhdOSw",
+  "puuid": "lLQWAQs0EX1KDbfd24TlBpz9q5C_NJn6WBECinveRkMznGDi0Hu8rTSgOa5KXzsjTzqkwiS_HtanFQ",
+  "leaguePoints": 890,
+  "rank": "I",
+  "wins": 164,
+  "losses": 123,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22a3"
+  },
+  "summonerId": "tpCDD6oK7WOICoXu0y22hnFzAicSgE7b5wJBhOUtZqGwGobfDdzvQF1s1Q",
+  "puuid": "RqtCF7r8vpCPCk4_DSGsdokpDsJowBilBtXzmvN5fvLH3fYtjk72hILpcDS1S31LtXZHZPEaq5OnVQ",
+  "leaguePoints": 890,
+  "rank": "I",
+  "wins": 155,
+  "losses": 129,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22a4"
+  },
+  "summonerId": "qu-03Ldtc8-qUhR_EbVarjIGg6sxpx8okwYtxEGXmuc2L8l7-mN9g9ON4g",
+  "puuid": "3wdh3kkl-Vd9dqUsAHOiL5P2nHleryFaqaG61rEfDYtTKcNUqTyW1CkWkJPHD-3cbwvVsCqMr5wksA",
+  "leaguePoints": 888,
+  "rank": "I",
+  "wins": 362,
+  "losses": 262,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22a5"
+  },
+  "summonerId": "l8E4YHuiToZlnGVSJDH6SMz2PqRWXr73GJWz1T4eSJpUX0a2G2N8Prbm_w",
+  "puuid": "KU468NF6Z9Ro64RQ_CGHkjOZQMJAxyge3624HDvDvlt3QAwe_mP9iwnHz5HEcTpySvj0Q4tfVOx5yw",
+  "leaguePoints": 887,
+  "rank": "I",
+  "wins": 366,
+  "losses": 330,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22a6"
+  },
+  "summonerId": "aNnjP7kax9k5q5kOdg-JiDHQ0YaOWVLISfW-FA_8PW4--vzDMTb30r0GYA",
+  "puuid": "b6jw6c0DXZLSvUop3thIAlrx1GRajwALAgs0WHHiaNpZgxE-XDMAlpVQxfBxdkhb01Wa1mmPnO947w",
+  "leaguePoints": 886,
+  "rank": "I",
+  "wins": 157,
+  "losses": 120,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22a7"
+  },
+  "summonerId": "a_hLF5562YVse390G6tJg4dIkeWTm3Nets6iYy2Nlr3fjUXaGYqHAE1Nkg",
+  "puuid": "yI4lZQXkLCyICFHtCFzQR3h8eHK8A71Wk4LGV1l3KyNcQpjff35YwkSy6pDwx2fzZBK2cAdODfcLcQ",
+  "leaguePoints": 886,
+  "rank": "I",
+  "wins": 148,
+  "losses": 117,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22a8"
+  },
+  "summonerId": "123urk3nVkC0K923XE0gxrjSYwB9XlXdNOoZs_9yWlk6ol3uM9Zk_FFUWg",
+  "puuid": "HP0tlbpo-J82QySXNFBNYpAdLxhAFlh2X2CdrC6J3xfuzTzaKkphuIuaLAA1kcU04tZ6fm6ec7cY4w",
+  "leaguePoints": 885,
+  "rank": "I",
+  "wins": 394,
+  "losses": 356,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22a9"
+  },
+  "summonerId": "LS3NhkFXQ1YLNa_k_3BXbDYpgwBacIgjQdvEJVdB9-bs7T90Mc0fwf7uZg",
+  "puuid": "n1VfomgDOLxZHriImyqsg9bNRGuCURH4BE7hXMv11SaD9FpNBq4hohNtgfqIa5EVTbpDJPriXBd4wg",
+  "leaguePoints": 885,
+  "rank": "I",
+  "wins": 197,
+  "losses": 158,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22aa"
+  },
+  "summonerId": "QI7uy1v-eW8nh7KZnNlZt3hExsCH7wQs21i0J4-xtrYL6rSu9J6S0Du9LQ",
+  "puuid": "q1gO5ga8Ien4Yu-pZ0BOgxEKO0jr0NzkFyewsz_CWJZh2cGkFlZ_wNhYY66-0S8s1xOuuKLay8ZKPA",
+  "leaguePoints": 884,
+  "rank": "I",
+  "wins": 451,
+  "losses": 413,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ab"
+  },
+  "summonerId": "zzOsRBpU_yF1Sf2QX8oyGIUr1pz4xXNAHdXs9wB5Akck4CWon0jcRaSZ3g",
+  "puuid": "dHEzpeAz8__fzahHW8V-cA5wK9W_AtIy9JTfVUDgQmjHNYCzJIjSEQoz8zYGOJJ0L5xPNQ8Bu9UBRg",
+  "leaguePoints": 884,
+  "rank": "I",
+  "wins": 206,
+  "losses": 164,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ac"
+  },
+  "summonerId": "n452b2yjVh1ftGhTa_ygbmHw2XAKoUFYnMiW7uE6fGk5NsUYJMrAy7V5Mg",
+  "puuid": "6BcFzGXIu6Pf1ZUd2AFjR75FOINl0fQIybdGIS00-YNdDw0oFchfhZImOWS6gMle61MJpnCWJsRlrg",
+  "leaguePoints": 884,
+  "rank": "I",
+  "wins": 185,
+  "losses": 146,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ad"
+  },
+  "summonerId": "Rl7_PpeLPItzeRxz18N79FYGxmCS9PUnCH_wDk5TvY4mI8oQOZ4mpoNkgg",
+  "puuid": "HWRIG1GuulBzv_7l-2pfOuIuLDXbiDsMyeGharKunHDcgvma3CAFt1JgT1-gsc_51rEN6EF4ptEnWA",
+  "leaguePoints": 884,
+  "rank": "I",
+  "wins": 92,
+  "losses": 58,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ae"
+  },
+  "summonerId": "0B-7s1V2edOeEbcWLoQXuCOQXjJ5pctFPM4nXc4xxqusCfMoGXcNeKGr7g",
+  "puuid": "3U-BWcf4ZrSblYqWHxKOkzMWp0bxuk412Mp4wGC-BlVufTSUMxgdrWamKf0Vab-9x-5h9Fb5-1sQvQ",
+  "leaguePoints": 883,
+  "rank": "I",
+  "wins": 208,
+  "losses": 181,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22af"
+  },
+  "summonerId": "seRBH7x-cUlRTn_zCpvFiNaX_yqVa-x2HkPBEWgExRhb86He1vUmvxcknQ",
+  "puuid": "Uo-cJdrBQqkXhj0kov5et6Y5LG6AB1-BCjOl0UVzHLBe-Pu55XohITx5mt-5xhXeOns7CdQD8eG_vg",
+  "leaguePoints": 882,
+  "rank": "I",
+  "wins": 248,
+  "losses": 219,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22b0"
+  },
+  "summonerId": "jMTwxmX7vGuaydAWfQhcmMPRCfpqmgCzw4o0IBP3VI8Y_4MKasRg5clwzA",
+  "puuid": "TVzPRc5EVyLoBuAVr7A7SpGXn7A7ndBW_nQ9wCHroDY1nI7ZwhdAFeOH62LMeCy1sYXz7Z2m-JnAHQ",
+  "leaguePoints": 881,
+  "rank": "I",
+  "wins": 450,
+  "losses": 409,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22b1"
+  },
+  "summonerId": "QTEYFyjGXmks1IWJ3G982yTlhE2TCufKwJ1DBKyWp2aerM36Hq38vlpr7A",
+  "puuid": "P6Vp0H5Po34B0JXf2NwVEGC3TWibRAVUVOOof0gAmj97Oz3D8ovquWv4QofMvExB0k5P76UT034meA",
+  "leaguePoints": 881,
+  "rank": "I",
+  "wins": 132,
+  "losses": 93,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22b2"
+  },
+  "summonerId": "50o_vG5mGB6qaUG4fc0tnMd4NqlGix52e5uFsrm6vqYmxmX3XzEYGlkD_Q",
+  "puuid": "1w2VYG8O5kNDfaBpVZom9Pix_7bYMSZM0xwJvV1jwpDyqExwz646v5PgXkigP4a13FZ3UnxocSUOmw",
+  "leaguePoints": 879,
+  "rank": "I",
+  "wins": 98,
+  "losses": 68,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22b3"
+  },
+  "summonerId": "4w3T7EgYB53JDv_1qsPcuVTNKYiDKolitAL6sXf3aUd6HOWtChUOlwMPaw",
+  "puuid": "vzg9EtRpYRLw8njcMmnf_nA6StCgOZn4-8xZSZU04FHP_Hy7fmM_lKubt36MQoI6s1AXLIVJutcRVA",
+  "leaguePoints": 876,
+  "rank": "I",
+  "wins": 313,
+  "losses": 280,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22b4"
+  },
+  "summonerId": "CENA5DTS7lEb56deP-J6_N62Tuf9DdhQJihipWuWONfu5VcIAaZvT6q4BA",
+  "puuid": "5AmELlJtzqGgAjFBIhFpT4o2Fc2_-YhGV_LXjPK3EWDE6c7yKcXdw93YKfNeEdiz8tZPzFx1YFX8sw",
+  "leaguePoints": 875,
+  "rank": "I",
+  "wins": 148,
+  "losses": 111,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22b5"
+  },
+  "summonerId": "iU1W2Bx3a6yLhN7DHB6P6-5GWwWfdH1dnLX7ZnGXmVLecLg6Xx9XSx2vAg",
+  "puuid": "TAupsKQs6_DgMH3qTOVu34mYDni734MYUfYJxwo1YfzbpmCuP8eDCP777NES5iFoXMnS_llF2fz0ig",
+  "leaguePoints": 875,
+  "rank": "I",
+  "wins": 140,
+  "losses": 111,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22b6"
+  },
+  "summonerId": "2k0MIPSK18FvLERGySesDbd4bWQwQoo6ZWHbSoI2pccqwLnbbyK5e_UitQ",
+  "puuid": "23ApKGzBlyW4wr0Fl49_EUqGbO4YMytjVvKUfEyqOS4Yrf5YMi-uOKlFQ69JRVYllozazaQdXLa2Ug",
+  "leaguePoints": 873,
+  "rank": "I",
+  "wins": 308,
+  "losses": 267,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22b7"
+  },
+  "summonerId": "KDlLdiSU5XNBSzmcRuMq9X7xi1O6eD5C5N0fiTFy8Uvemu0Srqe2i9x30A",
+  "puuid": "xRBdQfrXkFenQTLyRsf0JJk0C0OuGmeOznyp6R9yre8Yu4kDqkUilLtUmiyI_qYN_djOrmewngq8iw",
+  "leaguePoints": 873,
+  "rank": "I",
+  "wins": 216,
+  "losses": 172,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22b8"
+  },
+  "summonerId": "gclP51LxYGhRPlBIq1OPk-BMiryYO8vtj3tH72EdwvfOdSpX-KmtB02PzA",
+  "puuid": "BK17Lgu_q311bxkuM60uSZ4hdBhAqDBg0XIq4aTOt0N_kgVPkrQMRlJFghHEyuq1z3PDXNgPfZkmCQ",
+  "leaguePoints": 871,
+  "rank": "I",
+  "wins": 251,
+  "losses": 232,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22b9"
+  },
+  "summonerId": "A7_amTAumw3u-z77TpEpLDb6lSAsPpVHj9F3AQdMzISyNdWuxiESG-iJ0g",
+  "puuid": "bwZtBvLXLGFdaut9ivF4Qtkam_nDYmMsFSTH4gtZDV-mVcITJ5EvVO1W8EqNf_UZZ1LrlEDkk6KGCQ",
+  "leaguePoints": 871,
+  "rank": "I",
+  "wins": 99,
+  "losses": 57,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ba"
+  },
+  "summonerId": "UdSZ57SIWYUZm3z5x2XaukyuCz3Wz_sufumWxU6CsKMOuok2jBzGlKknHQ",
+  "puuid": "6Bo1dFR5NbvbQRdWvEz4ck4JhfSph_5phaIWZf2Czig-uhRxaNMEUrftPqSu_vRef1No3Syl26pTvQ",
+  "leaguePoints": 870,
+  "rank": "I",
+  "wins": 217,
+  "losses": 191,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22bb"
+  },
+  "summonerId": "AggqvzawF6D1TP2qYs8g5rNxvie03Ewgx3AElSZY4mRxUl1Et4-w07f6QQ",
+  "puuid": "lYofSUD4r26msn74pSiRSaqRRwvsyxInst55QSxNnHzKMCv-3HOqPZAKqAHQpcb4MUmlCSJmyLIHkg",
+  "leaguePoints": 869,
+  "rank": "I",
+  "wins": 240,
+  "losses": 202,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22bc"
+  },
+  "summonerId": "YnAYvEPqEXxAo87VZpZvyhzGNwS7AFq6F1j3Nj9N-gc4isDiHCvOTxMYoA",
+  "puuid": "LNkM4DGcyyv2yADu52Pnqtb9A6wYlmIaFXlid66ILGOOiUdG0YfO-iBzxeX-IQD0IMYS30_m5X6jtA",
+  "leaguePoints": 868,
+  "rank": "I",
+  "wins": 191,
+  "losses": 152,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22bd"
+  },
+  "summonerId": "5hVPj5D09tmOEz4hvG-ESYPPKTxvC6KaC5UTjsmLHwOJ5V_CVZeB3Yaw3g",
+  "puuid": "q9Y1wt8bz9_St3oPgW7gAiPK4ev47cBrI6BYUFBfaK9tgpd_qPlLHPuCrAyAiIuUFnB3QgtoanFIag",
+  "leaguePoints": 868,
+  "rank": "I",
+  "wins": 152,
+  "losses": 114,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22be"
+  },
+  "summonerId": "jtJDkyGNSyREwVIOBjnx5f57essPApZPrWARDds5HYRJiOLykSkGZmfVvA",
+  "puuid": "wTkbfnDOS8ee2jWT6q60lJ5dl6votlmRWBhVhp4ZIim2hdCeB0ExQGZuV3oimXkf3zuYoJT-Ql9M-Q",
+  "leaguePoints": 867,
+  "rank": "I",
+  "wins": 405,
+  "losses": 384,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22bf"
+  },
+  "summonerId": "N7rJLRsgXXQnyqoXeJNOfb2t7P88fOyftBH27UpcUUBcQZfkLhNmxGI6aA",
+  "puuid": "9e7TkvYkwRh37v0TOgVDfa955aopZnHdEJLm7FPKR1S1DVFri-4qzTxX1Xfom0xDP0gJFjez_5Tx8w",
+  "leaguePoints": 867,
+  "rank": "I",
+  "wins": 225,
+  "losses": 180,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22c0"
+  },
+  "summonerId": "ZUyCtWnMm-39s9NjhYrY94c4k-rfxS5sNH7gdOCbaSGl0PlAFFhV3c4y8Q",
+  "puuid": "d1mGYx0Rj7UqAnHXevRsHATlOND8WVs2T3Pkj9Svkqor4mDQreTP_SHQWtJAALsdDSG5-cSKXvNFQA",
+  "leaguePoints": 866,
+  "rank": "I",
+  "wins": 161,
+  "losses": 115,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22c1"
+  },
+  "summonerId": "AT5F6IjPHDk74torj0TCh-lDFCfRLFab5MfSP56BesRpNBHyN4xZlKrEwg",
+  "puuid": "kGW_rNUSjrO7dqGGkbNPZ2JRE3GrgHJ99lPGMnEWNEAqyVW9uI9Y4ZrUfLfZnybC-ML3BrS5qdMW5w",
+  "leaguePoints": 866,
+  "rank": "I",
+  "wins": 116,
+  "losses": 59,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22c2"
+  },
+  "summonerId": "DlkR8GlRdZpmtRfO2JBPp3URTz7ZvwioKLDGeXbAXREoEFYmVsRX_hARiA",
+  "puuid": "gT4ctQrgRnt1iGyD3hWKe37TM725OgeqtXDyD_3q8XaveHApG5u8RsIJjWKjJg6vrOOSOdwe_piPfQ",
+  "leaguePoints": 865,
+  "rank": "I",
+  "wins": 169,
+  "losses": 143,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22c3"
+  },
+  "summonerId": "87_thVorVZeko86ny9-WU9evGUwZumEhY49Ie9ZsoUpaQjyabxZZYTVbhg",
+  "puuid": "Rd1U2CdiLuNM4Sd6TagPvgY6IN9MpXdZyO9-My3LBV4_jPTa4uIE_NRt3wwIP93VWOsgGSH6UHABrA",
+  "leaguePoints": 864,
+  "rank": "I",
+  "wins": 213,
+  "losses": 169,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22c4"
+  },
+  "summonerId": "5LMKRKUq7Ro-hkwYSBdcXBkRdOOEurR4w6uIaEbXkdJKU268SxN9HcIjDA",
+  "puuid": "qHpoPiyKpJCiXnPVNETY8e-pugoJEuy4Cr10NGgdb3b6OVp_swxwiNuFYWayYPfuwQYHkfIqC43BVg",
+  "leaguePoints": 864,
+  "rank": "I",
+  "wins": 130,
+  "losses": 96,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22c5"
+  },
+  "summonerId": "Ic4p-KdqBHyAaUPiij79WldvRiSLsWB3gFtaEfnXNTGT-lZptR8-tT1i4w",
+  "puuid": "sVZo-niW522QK50um6dCHMSEqCkH7weSjSFybQ2s-_Mm2tIwuxwlHl1S0yRMK8IHFZVef6HK13glCA",
+  "leaguePoints": 863,
+  "rank": "I",
+  "wins": 206,
+  "losses": 171,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22c6"
+  },
+  "summonerId": "7Sq2H0YK9BAEifRw5zsxXp7YvUr55f9LK_5kxwaAuo3AtkoLRZfO1RsOmQ",
+  "puuid": "dXojyE76i2msoLyF6s5e5OCCnEaPVvmH-NNtJdmuwLXzoJ6fWuNsmsAbixlqLyBbhwp3x6CqJBPeLA",
+  "leaguePoints": 862,
+  "rank": "I",
+  "wins": 168,
+  "losses": 131,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22c7"
+  },
+  "summonerId": "7Nit7RG_d_GqnOULMzc1waQA-FheGeBDvjlsE0k0uqn47qRH6FcpvFJvOg",
+  "puuid": "bVJqFQ3AEvbLov7f2if7_TqpBEr4Jiy3FGUDjNHyBqMurnK69Oi0F9LOy481LZSdfZ6VcmCkqKfRyg",
+  "leaguePoints": 862,
+  "rank": "I",
+  "wins": 111,
+  "losses": 76,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22c8"
+  },
+  "summonerId": "qDqP3EnUoNiuUYYfKJ8tJTwlWVu8YZeuvWCNDY4T-TRWtmhdLlxsocjPTA",
+  "puuid": "GaV0DsVG4Z4iCy8qF4t2f_qmX5B5OJB_hcxf5iFgJebYrDjRu-1i6o6pPi0ywnqe4lJp4gb52eIK3A",
+  "leaguePoints": 861,
+  "rank": "I",
+  "wins": 159,
+  "losses": 128,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22c9"
+  },
+  "summonerId": "SGCi3ofb8ppl7t1c3nzwNtDLyfSmbZR81KeUjja5pxunbV3TGbPpuzeesQ",
+  "puuid": "U0z-_nEq6VqEw5E5ybx1pgR-UEJY6xx53Rr2QWy3QBzmRdAUolbv5_HGzj72auwl-AEaMDNINWMNmw",
+  "leaguePoints": 860,
+  "rank": "I",
+  "wins": 242,
+  "losses": 218,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ca"
+  },
+  "summonerId": "GRWg5X64qjzIbhJF1bKNhfkWgi3A6HoyI9NbRzdTjGJ7mBb-9m9uMpVVWA",
+  "puuid": "k_f7Ogan8nzgYE4T98uqQdzKCGNIC72j3ELr1F-5lyVxRFumvluS93CKRvs1H8xsQxI0yQdsdVxaFw",
+  "leaguePoints": 859,
+  "rank": "I",
+  "wins": 266,
+  "losses": 221,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22cb"
+  },
+  "summonerId": "rwIL7wkqfgoqK_tItMQl-F2dpDvwTPOzPYm-9-8MpWXonFWZhB7AW2QBMQ",
+  "puuid": "jaH6tQQLqY44GkJoOHuWJO1FlkN6h10cjysUC9fTDME5B5R8wHv1A00Qz3IMg3GDpgtBCS1jnx20XQ",
+  "leaguePoints": 858,
+  "rank": "I",
+  "wins": 253,
+  "losses": 220,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22cc"
+  },
+  "summonerId": "pxLW_4HtBpSXXfi2DGi5jWzV-hD-fqv1JwWwmxnS1Lc_7j_Y6VyjQa_R-w",
+  "puuid": "lXtVHeWoamePYWc-lcMxGmBjrgjf9TuA8enTvWYF83IJW5-2YnKxPSWgpjtD_Vgx_tZKgNdME10yZA",
+  "leaguePoints": 856,
+  "rank": "I",
+  "wins": 111,
+  "losses": 74,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22cd"
+  },
+  "summonerId": "CC_OPs02nUbYlTqTU-Bf-E_KW_ozh6A-CnIAZoB_xwL775YOsUwx7La3mA",
+  "puuid": "bJEtmY8cXi4nnFfXEghsrRd4Hz5kMooNFgvEIz9nbz8whCKmdcvZKjUEKmGce4yu191km6hkol0eYw",
+  "leaguePoints": 854,
+  "rank": "I",
+  "wins": 289,
+  "losses": 217,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ce"
+  },
+  "summonerId": "5vAKPRDkbX5WQye3rplGHA1rg4T9UBd7rOZkMWyOUS5PTwD0otqod3NsYg",
+  "puuid": "RzNY5bojg7UDHOs5nLEp-bMmZCVvr5zzu-07iYtEF5GJUqqAv77P9Rq5E1rZIOL0oJq5IU3_ZGcNEw",
+  "leaguePoints": 854,
+  "rank": "I",
+  "wins": 289,
+  "losses": 243,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22cf"
+  },
+  "summonerId": "2Ek-zdnYadPxjKFcClL5RUi31G-bBXGjqtw8eZKs15N_2sAvwrm4ykCqgQ",
+  "puuid": "zUL8ljM7cj8w0Jxy-eas-2HeClq0p0fi6wsRM0XawpLfnC9M3ejvuk-IvyjpmSnsIdiDr1Joy-VAxQ",
+  "leaguePoints": 854,
+  "rank": "I",
+  "wins": 161,
+  "losses": 101,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22d0"
+  },
+  "summonerId": "0C6swbpM10yISih7tbv9b2j4lzURwuO6wpnxT6g72sleELwLeTEqw0lCWA",
+  "puuid": "lsWnU7kJNVYkWWOTAzroeSRhPiALODv-S1g8QGFWqWRjPp_LCN8aVyNzwZH590mFQWSGkzqJMM0PHg",
+  "leaguePoints": 854,
+  "rank": "I",
+  "wins": 130,
+  "losses": 88,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22d1"
+  },
+  "summonerId": "EF070yjKqupML-52zgXH5R86BuH6h1bjjoTT5Dgt_k1RE--e0zItNc1VZA",
+  "puuid": "5lIhYx-9b-R0KxCL9apbQ5Hbx8Ph5r2KygM0hZolp7ihHDOQDV58eCks0PfxFTLIQEepc6kQB0oq1A",
+  "leaguePoints": 853,
+  "rank": "I",
+  "wins": 229,
+  "losses": 190,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22d2"
+  },
+  "summonerId": "2ldmbkc1Rf1hOzTgC2OIBequUSUD-0H_7LMOZsvIfkHlY-OfL58p_9cxtg",
+  "puuid": "Zf2zvhYSNUAaO2hICHW_lo6UWfHT6yZtUPxyuUVT4wEzi9Vx_lu_-mgoyi8w7bcv2kZ0pptC2eJmZg",
+  "leaguePoints": 853,
+  "rank": "I",
+  "wins": 191,
+  "losses": 146,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22d3"
+  },
+  "summonerId": "LB7Vdu-iYYjZ8YRlzzFyQ_6B54IEA6eNNKRcgKxejPXL6ao2ETLkIEiSyg",
+  "puuid": "hEgTU3UC6EFxENT7jxXqy25Sy6cEdIbJE2V6NcURMXa3YycvZBFnGrLN7vMV9LdR35rgNEUxmkqLiA",
+  "leaguePoints": 852,
+  "rank": "I",
+  "wins": 305,
+  "losses": 259,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22d4"
+  },
+  "summonerId": "n_2AX72OikTFkGzE0MLOfd0279bR_EiFrcr28KOX4WTjKH8MsRHZG7p9gg",
+  "puuid": "d4pHUuYizwkzmUVZPwdf7yVboO3BKc4xChqxZl3A9UDTDU4ekYS_pl3hWKRrtpUSHgBjhr2VG1uqEQ",
+  "leaguePoints": 852,
+  "rank": "I",
+  "wins": 160,
+  "losses": 124,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22d5"
+  },
+  "summonerId": "3WIAbbzKtMk4GFVs7ix3TPvgKONcajH4v6iW0nsRkdtn-3UcHLBeJVt4hQ",
+  "puuid": "RH_WU2isCFtIC8AOR-zcnCPN10zR8pQ8rd88C0ULG3BS661huh0LjNz3JS_INM9JDrhDbgL7EQjyDA",
+  "leaguePoints": 851,
+  "rank": "I",
+  "wins": 230,
+  "losses": 201,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22d6"
+  },
+  "summonerId": "FMIoc1hR4EHtLQ2AHx-bntEHZSnLsVNuvarTGaBeKdy9W7-7dD1uMMRtXw",
+  "puuid": "6D7R0YRjswXn-RHyPrq7KfA1Pf9xzhSNYapxETtQk7EracRuV03NmsKDpiKV4Zgf_Yu1iH_gjlpcKQ",
+  "leaguePoints": 851,
+  "rank": "I",
+  "wins": 165,
+  "losses": 122,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22d7"
+  },
+  "summonerId": "fgAihbdkFx0b3R0hToUhgnNe50XHu0fhl8M9juMa93c_9gD3l0toDEhz2A",
+  "puuid": "ePhc2-L5WR6xc1kJZbMSZscGwBOxfBy1geF5dnD7xxu3UW2RIUWxSGcwazf7ldJa_zfUpGL6_gLZfw",
+  "leaguePoints": 851,
+  "rank": "I",
+  "wins": 137,
+  "losses": 108,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22d8"
+  },
+  "summonerId": "nMm9mbG7FlUsG0Qpoyuujb02V6DS7dBXmnc9-K-gMwSV2gMz8gA0xO8Dlg",
+  "puuid": "b6d3JVK2zE02wu1ttyh3O9JuUOrB18V3LsRSTT3V5-yyWJGxhD5g5k8LgrE-d78QI1SV1moCEwVeag",
+  "leaguePoints": 848,
+  "rank": "I",
+  "wins": 179,
+  "losses": 148,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22d9"
+  },
+  "summonerId": "LyxOhHdPJRRv5xdGNwUMHlOCodMebKimeAEvw6bpL1cSh_86iEmPkwe6OQ",
+  "puuid": "lx9pWTP1Mj_9Z5kCiQELMVmjMAbMQjEfnyYNJ7fWo908RtZdwnmtFFtkSxwC6MH8Z9c2o_PN3UTjmQ",
+  "leaguePoints": 848,
+  "rank": "I",
+  "wins": 125,
+  "losses": 89,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22da"
+  },
+  "summonerId": "fWo69LOGV5W3jmVAtVrDGvKPGaVP4AoGnYXuc4Dbbj4_f6XLqhYnt6pqYg",
+  "puuid": "4TBvX72tN_CnoG-n7ReA1H-Z2TZHnfG5BMQHVJyoasvb93_HJQNQ4kRwnbtlTfDxqT--kSeec9vwXQ",
+  "leaguePoints": 848,
+  "rank": "I",
+  "wins": 93,
+  "losses": 58,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22db"
+  },
+  "summonerId": "TzFSIsYHg8FYAaJbMm_zOkd1kb-7aXrfToBYgG6jgaQ2lvdc3H62nFMGRg",
+  "puuid": "dspwIMWsdtEEEVtQz9SnKJOyrMmaykARJ2SKjxS7AvBLNJ-ADGYSi0zd8TcAU8j6KA-n2lCIkD-0qg",
+  "leaguePoints": 846,
+  "rank": "I",
+  "wins": 170,
+  "losses": 127,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22dc"
+  },
+  "summonerId": "jVtNNH3bSreq2O_dRT4UiYZhm2n9-4HG61njOLr3gEtiP_xle2JJqVKcuA",
+  "puuid": "nuwPvO6Cmvb59sb2Xjd13TMuZzldsCoFokE9xYSWxuurxfVRSYmV2etyMDaigJEEa2r8qiHdZ_8m1A",
+  "leaguePoints": 846,
+  "rank": "I",
+  "wins": 166,
+  "losses": 136,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22dd"
+  },
+  "summonerId": "6UTtHuHVZJ4_282WpMPwM7wFv0px4WgGUqMhcZtO7gf744bw7aH63Go_yg",
+  "puuid": "gqsdy3DEF8bMm3uYG3egRfe2vbXFAebyYtGvb7GlIkjjnXSO4qUGYYvT9pKVbQwmVFugRRNNdjACag",
+  "leaguePoints": 845,
+  "rank": "I",
+  "wins": 212,
+  "losses": 181,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22de"
+  },
+  "summonerId": "-iYJUTY7XAxEgTH8-Bmj_UslCvFwdOW0PlM7gOHJKjX_U6HJJVS9bZzRRw",
+  "puuid": "XsjjQqmAAdSzFPGFUeXj3NwD-SD0V-UqARYY1NOxXlbAzGRFd9nTz_2vVq-uQ5Wf2KhcM8lhrZm_wg",
+  "leaguePoints": 844,
+  "rank": "I",
+  "wins": 445,
+  "losses": 397,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22df"
+  },
+  "summonerId": "GqNmWRThRyZRl4QRQKWMTbq9U6YEkm4td2resEBjNj4GyQ_cXfin24fiOg",
+  "puuid": "yV6fW78kzDr15m_O-ab84FsmV1DwU7R863inIAwKN_Pq6ED3gFeX0ugxPHGjz6j7-eIwMUdrRmIUHQ",
+  "leaguePoints": 844,
+  "rank": "I",
+  "wins": 87,
+  "losses": 56,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22e0"
+  },
+  "summonerId": "BKyK1uBuTCXMWKLLHyORjGJKFayPzkNTPFgWTr4zd4HNTBqTzGUn89NnWQ",
+  "puuid": "b3NKHv9YDbsUpTff07e6zTWWsdETg_7KPNFvai5yYHqwXf4xb6mFq9sElgeBEMbzRRx-F0E16Y3p8Q",
+  "leaguePoints": 843,
+  "rank": "I",
+  "wins": 174,
+  "losses": 139,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22e1"
+  },
+  "summonerId": "h68Acuk4Plz_67HGqBkPg56zSucuHgmXGOrJ8SfObtzKkWOq0FWJJV_4sg",
+  "puuid": "ZhLppzeRu98YnVr_qoAEqP2M-bkPE-qFGDmubqk-xASFYchbn3jDE_7Wkd7WEvjbXlpiDG0SaiZgWw",
+  "leaguePoints": 843,
+  "rank": "I",
+  "wins": 172,
+  "losses": 78,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22e2"
+  },
+  "summonerId": "kv8_21pDVSozuesYSgRjQsEsn0uSHQEyx--hLxhy-DD-q7gv8QFmywcSWA",
+  "puuid": "npDxJBPkCMlcJ6B-4N1A1beY0jKQfEmF4we_ZC4TDt6fB8-YPHcsV72zmm2BSquOIgLUD3erD6QKwg",
+  "leaguePoints": 842,
+  "rank": "I",
+  "wins": 282,
+  "losses": 253,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22e3"
+  },
+  "summonerId": "tOcw7FEmEV2TjMw54Y0yQDqTyf7SFjw2n8-d20XrUTJl_2QxmOABSBTC0w",
+  "puuid": "GsOt2tJj0BYI4HfSqM108TpT8-cmXAYOZzACipSzqjyg7Hcl25dEbBDImLGXbsQoIdCdZLD7qCu81Q",
+  "leaguePoints": 842,
+  "rank": "I",
+  "wins": 256,
+  "losses": 227,
+  "veteran": true,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22e4"
+  },
+  "summonerId": "MLKzcQsV_UZdb0R7r2_aRnalHT5g-BN5YVcklHMJ0XkVyTYdlAJLh3Pupw",
+  "puuid": "zT6eyY8fcZgBid0EYVlDAzYlhwYjSpyWyDTjGt3iaFp0Jq5HWWUn-REN3vIQ8ZGXIq26-vyWFJdk4w",
+  "leaguePoints": 842,
+  "rank": "I",
+  "wins": 167,
+  "losses": 138,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22e5"
+  },
+  "summonerId": "tRyWPOtgYjVkQNS1e8IvFx9A8GkNYAzp-0B2tM1EGGxYj87nGh8SW_a-eg",
+  "puuid": "RfZq8RtmNLIqLjLkvmFH2vP0Wy_wMEm7iyAXynf8LHul15or4_1zqwVEK73VggLKTqt3y8tEWiOVVA",
+  "leaguePoints": 842,
+  "rank": "I",
+  "wins": 125,
+  "losses": 85,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22e6"
+  },
+  "summonerId": "55rwSzW343LWqPZGErg981tkUVYqcigfmjRCP_6BgEfYPRunn7RABNCcsA",
+  "puuid": "uLDSbIpTrXUPKKMRWi2hd21muMd19PPyuZMJHcbHAkqR3GXXRoC7zzmiPTHbmHEfxNYUFwLT_v9IOg",
+  "leaguePoints": 841,
+  "rank": "I",
+  "wins": 412,
+  "losses": 369,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22e7"
+  },
+  "summonerId": "QGyr5Pinf2JdT_QN2yFQsQh7BKaY08hMh8OnimhAu9QIv-GxF0MS6CR0wQ",
+  "puuid": "SB0znUqwZuO5oJe_0fFMmxkjFg-PZO04HxWA_sQeI6ULqS95_XX8NEBF9sjlTn6F5V1L8ne5J0WZxg",
+  "leaguePoints": 841,
+  "rank": "I",
+  "wins": 225,
+  "losses": 193,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22e8"
+  },
+  "summonerId": "TL5ZvK9OMkMzsH8LDX7nDqGs4a07tlZlMyJ-5edNzorJqWcJwgIOeyL5Bw",
+  "puuid": "Gydl0n4XnS0HMB3YOCm-Kidt8BaWvSadxSnKLXmCVm-_3Lk2s6hzX3OE8E4dZdxpD7IvhgsH0gvniA",
+  "leaguePoints": 841,
+  "rank": "I",
+  "wins": 195,
+  "losses": 125,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22e9"
+  },
+  "summonerId": "LQXWrFf2RDBQgF3eQVhJJ_xzW8LexXyAjtMVE_1-uRahWBwydm92mzoMIQ",
+  "puuid": "PVivWa7pKMLf2fDtYdJYAMI5P1ZWWRrX1boVnf6cmwDyT34m51CdjXj4ziC61eroYiH1VYY_-HePYA",
+  "leaguePoints": 841,
+  "rank": "I",
+  "wins": 130,
+  "losses": 104,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ea"
+  },
+  "summonerId": "ye3WC8eQQjbQnsVJdrLDbDfPjWnjvtIxkrEL1FCLS-CnI29G_EafJE8OwA",
+  "puuid": "d7zCOsp_yBHIzcInyZSGyqs0TiEbT4yYT-dYTmeLau9-aMl0AkTXjm25rSzyhIxR13EV_1oijA2eOQ",
+  "leaguePoints": 841,
+  "rank": "I",
+  "wins": 117,
+  "losses": 70,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22eb"
+  },
+  "summonerId": "XK3d2SqOjc0ztVs9iJgPcsRHkwrceHst4gP9WgN1KgkABD5Q1mCfkMGf2w",
+  "puuid": "w4NtEvwVg352Ka6VjZg2Yh2-4bzbW3C9B3ubb2yj1Dkzzvuak0lHcJTPzyZyTDbnMb24G3EJJ8ULzQ",
+  "leaguePoints": 840,
+  "rank": "I",
+  "wins": 188,
+  "losses": 102,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ec"
+  },
+  "summonerId": "0SfZ91P_SdPvxKARmRtfPy_gRLuM2FNSJjAe1k6su97f_t8v70UxbX31cQ",
+  "puuid": "a0iVoknh16tnVfOYa4Bqq4GfYSDXsb7Al4cdrCBHG1v-_8lNOZ3r16OSdnpBvHVOO9c2L2cRf_Ub6Q",
+  "leaguePoints": 840,
+  "rank": "I",
+  "wins": 161,
+  "losses": 134,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ed"
+  },
+  "summonerId": "htz061qMcgOHTNQjk-EB_fK21G9uiUViXBQUPlt3CYv28wNrshEyqzSI-Q",
+  "puuid": "QXlWHwOvZULSnI2Uc41RSon7CpwtdYk3mNIvwcOmaHABbANACdHhLSip6Ci--M-XQ-6Hhx3X6YtHYQ",
+  "leaguePoints": 839,
+  "rank": "I",
+  "wins": 319,
+  "losses": 269,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ee"
+  },
+  "summonerId": "1Y7GXeF_16jRoGRLvIlrIbf5cTyZWxx-egr8xHLRbqixjyRPgWsC5wE0sA",
+  "puuid": "xLNWB0JBN_mpQzYRVwGnpv_7DVrXi48Fakle-3lho3uGuWWaqvSwoDvqtMR2dbgiAsgkMbCT_eOMXA",
+  "leaguePoints": 838,
+  "rank": "I",
+  "wins": 194,
+  "losses": 154,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ef"
+  },
+  "summonerId": "88IBMDp9PQHjnxWDVDT17_NCCdQKeJ2PRgPfNHQF-HMUsPYscksXC2PY1g",
+  "puuid": "kzA5X76_jP3nLnc_1Bnf9lr8CxLgaM0xvNYBX1BMKTF4t1X70F8_aQ9d6L6t3CZUKUhoJYdtZ6LLjw",
+  "leaguePoints": 838,
+  "rank": "I",
+  "wins": 168,
+  "losses": 139,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22f0"
+  },
+  "summonerId": "GF_X-50aNfySfpaxjQHshg0aLFjcFM1W1XPyECgpXJ5ycTYo4pMrkeyDVg",
+  "puuid": "gvjQRdM7EZ8sHrMFedWbUmthlUNuFSUsZKU5rsV2lhpKXRkqwN8bIrSBW7dsalt9AdxZ1gB7hDni4w",
+  "leaguePoints": 838,
+  "rank": "I",
+  "wins": 152,
+  "losses": 124,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22f1"
+  },
+  "summonerId": "cVmQvi3VkP1KA4I5fuIc9s0xCBodJfWqrdDvfhGkvl_ibipS9qhgdQiWpg",
+  "puuid": "zswlLg04nVKc_vfLJZXjX_vppjSl6fufGphvgJ1eoOJ7x713OGYJcOBTE6wk0KyiFiO78qHrpviccg",
+  "leaguePoints": 837,
+  "rank": "I",
+  "wins": 311,
+  "losses": 282,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22f2"
+  },
+  "summonerId": "-iUSmMIg8oH3fOpGO1Wh1QmiVvnF3bC-dEy8kGknlNt5vAKbzHImy6LX7g",
+  "puuid": "pwBXNosCeIpTEV-eEicod3QqGFYMvXKJLIpK6oOwVX2cjnSDiqjo216iIYyYPj60X_36ENawkGpaaw",
+  "leaguePoints": 837,
+  "rank": "I",
+  "wins": 140,
+  "losses": 107,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22f3"
+  },
+  "summonerId": "W8aReViXoQwGvNm4_unXyqYA8l77i7kukRAtn8QEUiDan13TV-SaeSZOgg",
+  "puuid": "3SVzIbq0XXIrtGzgDD9MgZoU_nmsSEG5lq-4J9NoUyjJYDRjq7PMOg3wQqaupLxTvuYG_x4odJFdSw",
+  "leaguePoints": 837,
+  "rank": "I",
+  "wins": 109,
+  "losses": 64,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22f4"
+  },
+  "summonerId": "XYm46c9jTSE1lp_LPXwbcV5rEINkvouxjbczz-ub46PQatMRKaw8_mGeBw",
+  "puuid": "NxQjTbpMCWxW6NXt1waYwMm2_9aIWz4NZFqWyPq3IOUt7TUBoI11hq7sJMyqOxS_jspDfJh0kiC6Mg",
+  "leaguePoints": 837,
+  "rank": "I",
+  "wins": 101,
+  "losses": 62,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22f5"
+  },
+  "summonerId": "4Gi-qRBqy6nFFAW_5DzhjGzawcwkaESdp4RoOSdzvlLZ6R4fwMnvioB-Jg",
+  "puuid": "cbDzYGwx9dYDjkiwkcLQWPR_lc-eFOEE4O8T_kbmDnUySHjvgbISoqO2go7ZhJejwWqiHEfc78nyEw",
+  "leaguePoints": 836,
+  "rank": "I",
+  "wins": 530,
+  "losses": 484,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22f6"
+  },
+  "summonerId": "vmlepBOUy0miU30VsKR1yjo1QTXp65c4uI6_7Mn8A27iKTVGbHWWA3Khpw",
+  "puuid": "G4QXr_vBXmcIGbhgTFfgyAvj5-27mEQ48Raju-3pF-dhBGPv3TrwGECi_3-EWBfORPuI0-OrcXUQig",
+  "leaguePoints": 836,
+  "rank": "I",
+  "wins": 226,
+  "losses": 184,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22f7"
+  },
+  "summonerId": "YH4UWx-nfcEt4c-Y0iu-ZHvfTK4Uwf83EGT_ikpRTGlg_tAtnTsHbDKi3w",
+  "puuid": "Gkn-J4bEPtUe5dNEAsbvogughFg3azNU94F_ql9rkW437qyDjus6EwJZq1-Mh4cGlxyCIQZ1TtCZuw",
+  "leaguePoints": 836,
+  "rank": "I",
+  "wins": 222,
+  "losses": 189,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22f8"
+  },
+  "summonerId": "Vg7qTIrvWzgw98ZWhezU5plnqMWj5fe2EVRGHjN02qCPVssd3ZqS5rPJkA",
+  "puuid": "8MhHAbYo1nJxyY-hRox5l3cgheP96mFe58nW6DTBucBomaxMuExUWrHqv3CoTmcMxcBMIMxrmYCOxw",
+  "leaguePoints": 836,
+  "rank": "I",
+  "wins": 172,
+  "losses": 131,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22f9"
+  },
+  "summonerId": "iz_g-mSmu3qM_EM6cG7zXOBe7lfHIfNAv2xSwSE0ZQBzueM7Q7vh9xtKrg",
+  "puuid": "Rx72CCHfoqL-tvr9M7hnqMhzAIOFemUUv2-lda8UnVddhJ-p2mTv7079uFDOh2OE075R9ziyG88zGg",
+  "leaguePoints": 835,
+  "rank": "I",
+  "wins": 596,
+  "losses": 533,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22fa"
+  },
+  "summonerId": "KqfDqCRNG4M2mijKi1uXgfDvJ8i0vo3GUmxFNgSdCJBnKRXwNnc9hbrDVA",
+  "puuid": "3U1V63jtT9RHEwsm9j9hYQ9hdwJH7_FKbQCXt2yIYCDt6hkdJ4fVwfXFPH9XD-VvmR7RxnNPvZ9etg",
+  "leaguePoints": 835,
+  "rank": "I",
+  "wins": 265,
+  "losses": 225,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22fb"
+  },
+  "summonerId": "UALCD3UMRPAm8FwygzI0jZ8z7CuAdhiW0m25pGDAxg8f348_w1SuMgad4g",
+  "puuid": "CRVIssNHW77GdTWGXNVy-RC7xuUQ7-4cQXmRGQ8dWMqSMCc30ALfh0ciMpNXfkfaJ4qo2OotbUyheA",
+  "leaguePoints": 835,
+  "rank": "I",
+  "wins": 217,
+  "losses": 121,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22fc"
+  },
+  "summonerId": "_oRUs-71YNyAOBPm6_BXWrysd8br51tRTzM0qjO77BBehuRS3BiYESFFLg",
+  "puuid": "qswBYHLejkHSGYxVd-J4J9kUXfK_5Hqn0pqvOt3Xijt607NVn3gzEv7WBaVfCudASSpTBX4NKsHKWw",
+  "leaguePoints": 835,
+  "rank": "I",
+  "wins": 172,
+  "losses": 148,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22fd"
+  },
+  "summonerId": "aAMTl9kEJfCbTGi14FPyiHLLFgGhWjTyP8apWIcFdnyBQkpv4JWmp-9-WA",
+  "puuid": "hfaXIN5D7eKls2zlQIThZV52rp1VponPHY26lZZ73La7nMoIjjWeIlK6DFszQ79o4V1C173Y5HXfGA",
+  "leaguePoints": 835,
+  "rank": "I",
+  "wins": 115,
+  "losses": 69,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22fe"
+  },
+  "summonerId": "K9JQbz2H8qH_Df5RkMr2sjxYfrNWyLxN-z7cLD2nrOfEfc0NNggfegwO3g",
+  "puuid": "dWhDaqCHN16gm4YlMWzlLe39KcukUwNMGJVoal9OKtkxtqlbyBRGdj5dBygHPRMWWoTsMipoeRWMpw",
+  "leaguePoints": 833,
+  "rank": "I",
+  "wins": 120,
+  "losses": 86,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c22ff"
+  },
+  "summonerId": "bLkjBd6-fforeYRyI5TocZYM3b5isxAqVavIAIizJ25sncv2U5bkUDLOEw",
+  "puuid": "qSB7i6FDxxhwBa_h4mCGro-3YAwneHjQ0nrF2gl6p-vKMAxEdI2vT0My4sm9wYxntF_KVqRL1tIU_A",
+  "leaguePoints": 833,
+  "rank": "I",
+  "wins": 115,
+  "losses": 79,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2300"
+  },
+  "summonerId": "ewUAqrMMo5veex66tcLGsCwkBNTYqDQAYWIwEc-P22MQX5JU9wd8Tl5ZfA",
+  "puuid": "0mLL4xQpEEkGlqIkkzKB74QWGAYN_YMYhHy6iS4KZ9KXcrOOEudwM-9cxjQ8O5IxF8jmePmvXPzmHg",
+  "leaguePoints": 833,
+  "rank": "I",
+  "wins": 112,
+  "losses": 42,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2301"
+  },
+  "summonerId": "StVMwhmTOPJxMWjFbbXR1B-z24zqOE_PGPK1QiDM00bbrYe46sW7ke-lcw",
+  "puuid": "mO21fq5-ZRNfel2N_Q2CDzFpDEj4pa-ddxfLBn8nnfqMWQmTlsXJQZydTxmLUF3tOrXfMa03Lmtx7g",
+  "leaguePoints": 832,
+  "rank": "I",
+  "wins": 250,
+  "losses": 221,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2302"
+  },
+  "summonerId": "lh8cCJpogLMJkVgQE-51PHIHabewt14AVPev8YBzG3KXJWEY7O7BvBaBIg",
+  "puuid": "k52IHTDP8I_Pc0Jb01JlHjmHQRFAVJKsyISz0KiQuF3SZiNpXWHcGNGnoeWby2sMC3JIYQqC8p1osw",
+  "leaguePoints": 832,
+  "rank": "I",
+  "wins": 172,
+  "losses": 144,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2303"
+  },
+  "summonerId": "JTIJjDYnaZHhEIyuGMMYK5RGfrZ6dKjYgh8cSW95_cAjdzrFf6yIsblYrA",
+  "puuid": "YNupqmG0QVhRPbOwdurwFBNFc7wouuH-42krwmELxAmgnc1sPFThX_QZmaBgxviMam0mjunmmsQEvA",
+  "leaguePoints": 832,
+  "rank": "I",
+  "wins": 115,
+  "losses": 80,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2304"
+  },
+  "summonerId": "Jj6qUjf33kOoem0QJKlbfU07Hw1P73sSU224LbmSr7XNa2yO7xTFJ9xlSg",
+  "puuid": "giqbO2fLXytfnBc0wWT8Sui-9gS6fTPlcWWngxNAvhk-UYLXqRjk41_je-qLjVySGxube0OUKRHaPg",
+  "leaguePoints": 831,
+  "rank": "I",
+  "wins": 319,
+  "losses": 282,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2305"
+  },
+  "summonerId": "5FQpOb1Nz-5JvlQcw4IY2i02r-FQmwMoP-lKpQxalcq0tNKOMCY61lCoZg",
+  "puuid": "KCZ0H9LdNefgYTrYZGgjFx_rnJb_1qVsegvzbbLf4xlTH4biucSZMOytyYZBNbYYE1lljurX9Rt6HA",
+  "leaguePoints": 831,
+  "rank": "I",
+  "wins": 240,
+  "losses": 206,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2306"
+  },
+  "summonerId": "WTziqcOj_5y7uaXFIdfZuJQ2cu6ts_by4ADEZWG7sTR5uyAI557UcFK7hw",
+  "puuid": "JMulLLFchTi6CTN2H8sw56Zi7LpJKWsaBKs5ME6S-9t0oJz5PQ2Mo6QB_dqz2J5ZEwPr1XsvRFd0Jg",
+  "leaguePoints": 831,
+  "rank": "I",
+  "wins": 182,
+  "losses": 162,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2307"
+  },
+  "summonerId": "QOo-Nx9RI2e8Q8VFOehTf6QR4B8QXbrSa2MElMlWJDTEMfUmw4wOnvrDhg",
+  "puuid": "zOsHGvwGn7nJZmfTtaBVmw8Fj5w8s5P31ekxi47sEo9EnkADexO7hTgQQawamqK9WKT_ROJpj6_iHg",
+  "leaguePoints": 831,
+  "rank": "I",
+  "wins": 116,
+  "losses": 84,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2308"
+  },
+  "summonerId": "nxvdzlNxFCp9jUwaGLIe_VBDQWFA_A3a69nk_rp0GGex0Pbc3Il-Wb7rgQ",
+  "puuid": "J8Iwa1PH6Comc2Yar9jREsoBR4LeK2imdRYJs2XPaH0JSodb7qkSuFpqIQBNNjDNpjjwzfn0uiCTEQ",
+  "leaguePoints": 830,
+  "rank": "I",
+  "wins": 199,
+  "losses": 149,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": true
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c2309"
+  },
+  "summonerId": "qNjGod_nIDxJkE_H_gMIBZx-WnjbbdrPIy85TouY8RVb09UFs1bbWAyZnQ",
+  "puuid": "WveGsDdsU6srP8ARUz0q2mFGwDWN_yZg3eT5SnGTtxl7hqOv_vAIQ6H1dILWfnqKMVtYEOUEyNcR6Q",
+  "leaguePoints": 819,
+  "rank": "I",
+  "wins": 151,
+  "losses": 116,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": false,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c230a"
+  },
+  "summonerId": "9170HPyDYPjMDQA5QONGLOF2G306oz7P1FGu0N8b2G75ZBK9roDsKTm25w",
+  "puuid": "dWn-jx3chfoA0k2Q_JqgWQlUpILKRlojhGyyQHsJFq2i48Jn-AQqza2EDbOW-8f5S7xrq0Oni0eyOQ",
+  "leaguePoints": 806,
+  "rank": "I",
+  "wins": 293,
+  "losses": 240,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c230b"
+  },
+  "summonerId": "KZmtfKerG-ArTkmaViCe_TU9ZmGoQzAN5vZZW57M48N52Kn9pQm2l8WqKg",
+  "puuid": "AQk9tzpR6dqgnpJshZ6IC1eJwOw4mvq0n9RpRXDEtETYNZu0FHS7WAj877ukv5R0CsLszvgqlR7mQQ",
+  "leaguePoints": 778,
+  "rank": "I",
+  "wins": 570,
+  "losses": 495,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c230c"
+  },
+  "summonerId": "wHGeHVeWNftCzo28VEAdGkX5hdXP27nB8t1dEpyn6GiTG2fJ7CcqKqEtTg",
+  "puuid": "R_LgxB7TLifzr5xFIha_P_2U_yD3r4sCytgSVxmIatxuwc5KonT1g440VQI6RV631AQlmv41LlSXlQ",
+  "leaguePoints": 773,
+  "rank": "I",
+  "wins": 530,
+  "losses": 502,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+},
+{
+  "_id": {
+    "$oid": "683571629243324a137c230d"
+  },
+  "summonerId": "C0BuVFRVCMKduT1OEsWsUXq9RSvHOVhH9JKSzuKv7kbd3XD0ZzP-AVelTA",
+  "puuid": "uiFt-SEi3veh1cOOo9BfOnt1H8AXbDYkcPU2vSqtba6XXuEZRhzHrKmZb0PM2qouRxDSH_b6a9w0Zw",
+  "leaguePoints": 767,
+  "rank": "I",
+  "wins": 173,
+  "losses": 139,
+  "veteran": false,
+  "inactive": false,
+  "freshBlood": true,
+  "hotStreak": false
+}]

@@ -1,0 +1,23 @@
+2025-06-04 01:03:07,405 [INFO] Tạo và chèn thành công dữ liệu người chơi!
+2025-06-04 01:03:09,126 [WARNING] Lỗi khi gọi API: 403 Client Error: Forbidden for url: https://sea.api.riotgames.com/lol/match/v5/matches/%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20by-puuid/0mLL4xQpEEkGlqIkkzKB74QWGAYN_YMYhHy6iS4KZ9KXcrOOEudwM-9cxjQ8O5IxF8jmePmvXPzmHg/ids?startTime=1746381786&endTime=1748973786%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&queue=420&type=ranked&start=0&count=50&api_key=RGAPI-51f707d3-93ff-40a7-bfa5-e3190de50884
+2025-06-04 01:03:09,161 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 0mLL4xQpEEkGlqIkkzKB74QWGAYN_YMYhHy6iS4KZ9KXcrOOEudwM-9cxjQ8O5IxF8jmePmvXPzmHg
+2025-06-04 01:03:10,851 [WARNING] Lỗi khi gọi API: 403 Client Error: Forbidden for url: https://sea.api.riotgames.com/lol/match/v5/matches/%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20by-puuid/0qId1WswHLq4n0xrZWnZehkdYKkgc5awf-UoHx8oZ3Zn2jtEHGNfJz_RJ4yfLtyrVpVymFk4vqvrSw/ids?startTime=1746381786&endTime=1748973786%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&queue=420&type=ranked&start=0&count=50&api_key=RGAPI-51f707d3-93ff-40a7-bfa5-e3190de50884
+2025-06-04 01:03:10,854 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 0qId1WswHLq4n0xrZWnZehkdYKkgc5awf-UoHx8oZ3Zn2jtEHGNfJz_RJ4yfLtyrVpVymFk4vqvrSw
+2025-06-04 01:03:12,547 [WARNING] Lỗi khi gọi API: 403 Client Error: Forbidden for url: https://sea.api.riotgames.com/lol/match/v5/matches/%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20by-puuid/10lEeYtQSJPpJ5fHn4z5qYo7l-wkA1-MWxkg-RGqojKjbttbaSqOMNtdrjd1CSpZGNM5cJMPpD8boA/ids?startTime=1746381786&endTime=1748973786%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&queue=420&type=ranked&start=0&count=50&api_key=RGAPI-51f707d3-93ff-40a7-bfa5-e3190de50884
+2025-06-04 01:03:12,552 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 10lEeYtQSJPpJ5fHn4z5qYo7l-wkA1-MWxkg-RGqojKjbttbaSqOMNtdrjd1CSpZGNM5cJMPpD8boA
+2025-06-04 01:03:43,918 [INFO] Tạo và chèn thành công dữ liệu người chơi!
+2025-06-04 01:03:45,719 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 0mLL4xQpEEkGlqIkkzKB74QWGAYN_YMYhHy6iS4KZ9KXcrOOEudwM-9cxjQ8O5IxF8jmePmvXPzmHg
+2025-06-04 01:03:47,485 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 0qId1WswHLq4n0xrZWnZehkdYKkgc5awf-UoHx8oZ3Zn2jtEHGNfJz_RJ4yfLtyrVpVymFk4vqvrSw
+2025-06-04 01:03:49,248 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 10lEeYtQSJPpJ5fHn4z5qYo7l-wkA1-MWxkg-RGqojKjbttbaSqOMNtdrjd1CSpZGNM5cJMPpD8boA
+2025-06-04 01:03:51,036 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 1aJuGmQ8PqAQ13z68aHGS2mKegY0t5NaekAx3EOAlxCfF0GkhGiixUMEm4iLpMLBpj47hdqJuojjKQ
+2025-06-04 01:03:52,784 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 21UG79XkIMzeiPU2Fwx31jf2mzDBNzQogmPzpfbLsTLvPAXNc5ETIyZ_a8BdMnrzXfNgO_T2VSPJgA
+2025-06-04 01:03:54,543 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 22lPEbu8cmGa0axF3S3lpvvCpU2V6lmkLIHzIhtuXHBhKMTAWq6hTu2BfWMtoq_EbQY5V0FrRSwDfw
+2025-06-04 01:03:56,305 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 23ApKGzBlyW4wr0Fl49_EUqGbO4YMytjVvKUfEyqOS4Yrf5YMi-uOKlFQ69JRVYllozazaQdXLa2Ug
+2025-06-04 01:03:58,054 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 286HS64f6kDd253u2UbTIz2soiZrIa72JCRe4rv4f-TfDgRhBD4VLoaOgayu1SQMdR9qAFvTceD3tw
+2025-06-04 01:03:59,816 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 2QRr-eoiWiWH8MjFXRI-zoC_k-ZkFUVde5s0OK2dBvBSgirMBanWzmjN6-0QABYDz-SRkXMGQn7ymw
+2025-06-04 01:04:01,575 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 2iUcUmqL4JVkNnKZ4D-T3zi7R9OdFTTAorV7gN63f4C80y1irrpL7j8cN3CSeGiobK3t7RmbvYxfhw
+2025-06-04 01:04:03,320 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 3Go9l2bkQDN61Ep6xwVcSe0V5nmIpz4o7dHawvmEsd0niUVQDa6XTVpDJ_G6ymHHWSGw4LV6kp7Y2g
+2025-06-04 01:04:05,190 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 3LKUbTLbm7wObzJmBFaPY8YOYuZgHlnzw9TukAvP9WMb2jh92Uy6uNbEwf9P_DZ8Dg5Bean6KI6F-w
+2025-06-04 01:04:06,937 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 3ObnnBVuOMXysnzuzWy9cCgicQDnX1vfQdklquLkN5gAbZCuTPy-wADS-IeqreeSirJiCQrqUayOJw
+2025-06-04 01:04:08,687 [INFO] Thêm thành công dữ liệu trận đấu của người chơi 3QoEJXXdyK6omsJdW3cU7EXhzdEP98j8MGuQ9_h09vzrw2m_uBuUx2kk7ngsxBAAJELsPKP6hGTCBQ
+2025-06-04 01:19:54,633 [INFO] Tạo và chèn thành công dữ liệu người chơi!
