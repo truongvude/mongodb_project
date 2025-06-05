@@ -1,5 +1,4 @@
 .env
 /data/riot_db.match_detail.json
 .venv
-*.txt
 .ipynb_checkpoints

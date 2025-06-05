@@ -1,0 +1,88 @@
+# Tách participants thành collection riêng 
+db.match_detail.aggregate([
+  { 
+    $unwind: "$info.participants" 
+  },
+  { 
+    $project: {
+       _id: 0,
+       matchId: "$metadata.matchId" ,
+       info: "$info.participants"
+       } 
+  },
+  {
+    $out: "participant" 
+  }
+])
+
+# Chuyển đổi các trường đặc biệt trong document thành dạng chữ (Update)
+[
+ {
+    "$set": {
+      "info.championTransform": {
+        "$switch": {
+          "branches": [
+            {
+              "case": { "$eq": ["$info.championTransform", 1] },
+              "then": "Slayer"
+            },
+            {
+              "case": { "$eq": ["$info.championTransform", 2] },
+              "then": "Assassin"
+            }
+          ],
+          "default": "$info.championTransform"
+        }
+      }
+    }
+  },
+  {
+    $merge: {
+      into: "parti_test", // Overwrite lại collection hiện tại
+      whenMatched: "merge",
+      whenNotMatched: "insert"
+    }
+  }
+]
+
+# Xóa các bản ghi đầu hàng sớm (Delete)
+{"info.gameEndedInEarlySurrender": true}
+
+# Tính toán thông số tướng (Aggregation)
+[
+  {
+    "$group": {
+      "_id": "$info.championName",
+      "average_damage_to_champions": { "$avg": "$info.totalDamageDealtToChampions" },
+      "max_damage_to_champions": { "$max": "$info.totalDamageDealtToChampions" },
+      "average_pentakill": { "$avg": "$info.pentaKills" },
+      "max_pentakill": { "$max": "$info.pentaKills" },
+      "total_kills": { "$sum": "$info.kills" },
+      "total_deaths": { "$sum": "$info.deaths" },
+      "total_assist": { "$sum": "$info.assists" },
+      "wins": {
+        "$sum": {
+          "$cond": [{ "$eq": ["$info.win", true] }, 1, 0]
+        }
+      },
+      "total_games": { "$sum": 1 }
+    }
+  },
+  {
+    "$addFields": {
+      "kda": {
+        "$cond": [
+          { "$eq": ["$total_deaths", 0] },
+          { "$add": ["$total_kills", "$total_assist"] },
+          {
+            "$divide": [
+              { "$add": ["$total_kills", "$total_assist"] },
+              "$total_deaths"
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
+
